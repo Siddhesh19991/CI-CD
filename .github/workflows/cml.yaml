@@ -27,7 +27,7 @@ jobs:
           REPO_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           echo "##model metrics" > report.md
-          cat metrics.txt >> report.md
+          cat metrics.json >> report.md
 
 
           #report the diff
