@@ -1,0 +1,35 @@
+name: sweden_property_prices
+on: [push]
+jobs:
+  train-and-report:
+    runs-on: ubuntu-latest
+    # optionally use a convenient Ubuntu LTS + DVC + CML container
+    # container: docker://ghcr.io/iterative/cml:0-dvc2-base1
+    steps:
+      # may need to setup Node.js & Python3 on e.g. self-hosted
+      # - uses: actions/setup-node@v2
+      #   with:
+      #     node-version: '16'
+      # - uses: actions/setup-python@v4
+      #   with:
+      #     python-version: '3.x'
+      - uses: iterative/setup-cml@v1
+      - uses: actions/checkout@v3
+      - name: Train model
+        run: |
+          # Your ML workflow goes here
+          pip install -r requirements.txt
+          python train.py 
+
+          echo "##model metrics" > report.md
+          cat metrics.txt >> report.md
+
+          echo "##Data Viz" > report.md
+          cml-publish Learning_curves.png --md >> report.md 
+          cml-publish residuals.png --md >> report.md 
+
+
+          cml-send-comment report.md
+          
+
+          
