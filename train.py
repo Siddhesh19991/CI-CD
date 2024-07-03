@@ -151,9 +151,9 @@ y_pred = model.predict(X_test)
 plot_learning_curves(model, X_train, y_train)
 
 ### Residual plot###
-y_pred = model.predict(X_test) + np.random.normal(0, 0.25, len(y_test))
-y_jitter = y_test + np.random.normal(0, 0.25, len(y_test))
-res_df = pd.DataFrame(list(zip(y_jitter, y_pred)), columns=["true", "pred"])
+y_pred = model.predict(X_test)
+
+res_df = pd.DataFrame(list(zip(y_test, y_pred)), columns=["true", "pred"])
 
 ax = sns.scatterplot(x="true", y="pred", data=res_df)
 ax.set_aspect('equal')
@@ -162,9 +162,7 @@ ax.set_ylabel('Predicted value', fontsize=18)
 ax.set_title('Residuals', fontsize=22)
 
 
-ax.plot([1, 10], [1, 10], 'black', linewidth=1)
-plt.ylim((2.5, 8.5))
-plt.xlim((2.5, 8.5))
+ax.plot([0, 20], [0, 20], 'black', linewidth=1)
 
 plt.tight_layout()
 plt.savefig("residuals.png", dpi=120)
