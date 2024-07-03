@@ -177,6 +177,6 @@ r2 = r2_score(y_test, y_pred)
 
 
 with open("metrics.txt", 'w') as outfile:
-    outfile.write("Mean Absolute error (Millions in Kr): %2.1f%%\n"  mae)
-    outfile.write("Mean Square error (Millions in Kr): %2.1f%%\n"  mse)
-    outfile.write("R-squared score: %2.1f%%\n"  r2)
+    outfile.write(f"Mean Absolute error (Millions in Kr): {mae:2.1f}\n")
+    outfile.write(f"Mean Square error (Millions in Kr): {mse:2.1f}\n")
+    outfile.write(f"R-squared score: {r2:2.1f}\n")
