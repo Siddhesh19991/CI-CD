@@ -145,8 +145,8 @@ def plot_learning_curves(model, X, y):
 
 # Model training
 params = {
-    "n_estimators": 100,
-    "max_depth": 4,
+    "n_estimators": 20,
+    "max_depth": 1,
     "loss": "squared_error",
 }
 
@@ -176,12 +176,12 @@ plt.tight_layout()
 plt.savefig("residuals.png", dpi=120)
 
 # Metrics
-mae = 0.9
+mae = mean_absolute_error(y_test, y_pred)
 
-mse = 1.6
+mse = mean_squared_error(y_test, y_pred)
 
 
-r2 = 0.75
+r2 = r2_score(y_test, y_pred)
 
 
 # with open("metrics.txt", 'w') as outfile:
