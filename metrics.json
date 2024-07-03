@@ -1,1 +1,5 @@
-{"Mean Absolute error (Millions in Kr)": 0.9, "Mean Square error (Millions in Kr)": 1.6, "R-squared score": 0.71}
+{
+  "Mean Absolute error (Millions in Kr)": 1.0825,
+  "Mean Square error (Millions in Kr)": 2.8185,
+  "R-squared score": 0.63484
+}
