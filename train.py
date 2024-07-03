@@ -8,6 +8,7 @@ from sklearn.preprocessing import StandardScaler
 import matplotlib.pyplot as plt
 import pickle
 import seaborn as sns
+import json
 
 
 # Get the data from the MySQL Azure Database:
@@ -183,10 +184,13 @@ mse = mean_squared_error(y_test, y_pred)
 r2 = r2_score(y_test, y_pred)
 
 
-with open("metrics.txt", 'w') as outfile:
-    outfile.write(f"Mean Absolute error (Millions in Kr): {mae:.3f}\n")
-    outfile.write(f"Mean Square error (Millions in Kr): {mse:.3f}\n")
-    outfile.write(f"R-squared score: {r2:.3f}\n")
+# with open("metrics.txt", 'w') as outfile:
+#    outfile.write(f"Mean Absolute error (Millions in Kr): {mae:.3f}\n")
+#    outfile.write(f"Mean Square error (Millions in Kr): {mse:.3f}\n")
+#    outfile.write(f"R-squared score: {r2:.3f}\n")
 
+with open("metrics.json", "w") as outfile:
+    json.dump({"Mean Absolute error (Millions in Kr)": mae,
+              "Mean Square error (Millions in Kr)": mse, "R-squared score": r2}, outfile)
 
 pickle.dump(model, open("model.pkl", "wb"))
