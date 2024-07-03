@@ -27,9 +27,5 @@ jobs:
           echo "##model metrics" > report.md
           cat metrics.txt >> report.md
 
-          echo "##Data Viz" > report.md
-          echo "![](./Learning_curves.png)" >> report.md
-          echo "![](./residuals.png)" >> report.md
-
           cml comment create report.md
           
