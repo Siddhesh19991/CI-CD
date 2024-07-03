@@ -101,7 +101,14 @@ X_train["Municipality"] = encoded_train
 X_test["Municipality"] = encoded_test
 
 
+file_path = "encoding_dict.pkl"
+
+with open(file_path, "wb") as f:
+    pickle.dump(encoding_dict, f)
+
 # CV plot
+
+
 def plot_learning_curves(model, X, y):
     train_sizes, train_scores, val_scores = learning_curve(
         model, X, y, train_sizes=np.linspace(0.1, 1.0, 10), cv=5,
@@ -180,3 +187,6 @@ with open("metrics.txt", 'w') as outfile:
     outfile.write(f"Mean Absolute error (Millions in Kr): {mae:2.1f}\n")
     outfile.write(f"Mean Square error (Millions in Kr): {mse:2.1f}\n")
     outfile.write(f"R-squared score: {r2:2.1f}\n")
+
+
+pickle.dump(model, open("model.pkl", "wb"))
