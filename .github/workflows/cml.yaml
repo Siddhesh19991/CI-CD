@@ -28,8 +28,8 @@ jobs:
           cat metrics.txt >> report.md
 
           echo "##Data Viz" > report.md
-          cml-publish Learning_curves.png --md >> report.md 
-          cml-publish residuals.png --md >> report.md 
+          echo "![Learning Curves](./Learning_curves.png)" >> report.md
+          echo "![Residuals](./residuals.png)" >> report.md
 
           cml comment create report.md
           
