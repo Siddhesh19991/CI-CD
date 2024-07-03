@@ -32,7 +32,7 @@ jobs:
 
           #report the diff
           git fetch --prune
-          dvc metrics diff main --targets metrics.txt --show-md >> report.md
+          dvc metrics diff main --targets metrics.json --show-md >> report.md
 
 
 
