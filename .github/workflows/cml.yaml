@@ -15,6 +15,8 @@ jobs:
       #     python-version: '3.x'
       - uses: iterative/setup-cml@v1
       - uses: actions/checkout@v3
+      - name: Configure Git to treat the repository directory as safe
+        run: git config --global --add safe.directory /__w/CI-CD/CI-CD
       - name: Train model
         run: |
           # Your ML workflow goes here
