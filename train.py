@@ -146,7 +146,7 @@ def plot_learning_curves(model, X, y):
 # Model training
 params = {
     "n_estimators": 20,
-    "max_depth": 2,
+    "max_depth": 1,
     "loss": "squared_error",
 }
 
