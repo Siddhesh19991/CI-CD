@@ -26,11 +26,8 @@ jobs:
         env:
           REPO_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          echo "##model metrics" > report.md
-          cat metrics.json >> report.md
-
-
           #report the diff
+          echo "##Comparision with main branch model" > report.md 
           git fetch --prune
           dvc metrics diff main --targets metrics.json --show-md >> report.md
 
