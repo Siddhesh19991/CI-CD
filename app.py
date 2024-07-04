@@ -1,13 +1,6 @@
 import numpy as np
 from flask import Flask, request, jsonify
 import pickle
-from sklearn.model_selection import train_test_split, cross_val_score, learning_curve
-from sklearn.linear_model import LinearRegression
-import matplotlib.pyplot as plt
-from sklearn.metrics import mean_squared_error, r2_score, mean_absolute_error
-from sklearn import svm, tree, ensemble
-from sklearn.tree import plot_tree
-from sklearn.ensemble import RandomForestRegressor
 
 
 # The model was created using scikit-learn==1.4.1.post1 so we import this version here to avoid warnings.
