@@ -1,13 +1,15 @@
 import numpy as np
 from flask import Flask, request, jsonify
 import pickle
+import joblib
 
 
 # The model was created using scikit-learn==1.4.1.post1 so we import this version here to avoid warnings.
 app = Flask(__name__)
 
 
-model = pickle.load(open("model.pkl", "rb"))  # Loading the model
+# model = pickle.load(open("model.pkl", "rb"))  # Loading the model
+model = joblib.load('model.joblib')
 encoding = pickle.load(open("encoding_dict.pkl", "rb"))
 scaler = pickle.load(open("scaler.pkl", "rb"))
 
