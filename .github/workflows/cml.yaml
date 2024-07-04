@@ -38,3 +38,13 @@ jobs:
 
 
           cml comment create report.md
+
+      - name: Commit and push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --global user.name "${GITHUB_ACTOR}"
+          git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+          git add encoding_dict.pkl model.pkl scaler.pkl metrics.json 
+          git commit -m "Add model artifacts"
+          git push origin HEAD:main
