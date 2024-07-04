@@ -102,9 +102,7 @@ X_train["Municipality"] = encoded_train
 X_test["Municipality"] = encoded_test
 
 
-file_path = "encoding_dict.pkl"
-
-with open(file_path, "wb") as f:
+with open("encoding_dict.pkl", "wb") as f:
     pickle.dump(encoding_dict, f)
 
 # CV plot
