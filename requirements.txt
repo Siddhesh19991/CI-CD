@@ -6,7 +6,7 @@ mysql.connector
 seaborn
 blinker == 1.8.2
 click      ==     8.1.7
-contourpy    ==   1.2.1
+#contourpy    ==   1.2.1
 cycler     ==     0.12.1
 Flask        ==   3.0.3
 fonttools    ==   4.53.0
