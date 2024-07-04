@@ -2,7 +2,6 @@ import numpy as np
 from flask import Flask, request, jsonify
 import pickle
 import joblib
-import sklearn
 
 
 # The model was created using scikit-learn==1.4.1.post1 so we import this version here to avoid warnings.
