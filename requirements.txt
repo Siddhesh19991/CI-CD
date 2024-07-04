@@ -1,6 +1,6 @@
 pandas
 matplotlib
-numpy        ==   1.26.4
+numpy 
 scikit-learn == 1.3.0
 mysql.connector
 seaborn
