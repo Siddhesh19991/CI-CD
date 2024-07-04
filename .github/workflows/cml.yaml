@@ -1,4 +1,4 @@
-name: sweden_property_prices
+name: sweden_property_prices_ci
 on: [push]
 jobs:
   train-and-report:
