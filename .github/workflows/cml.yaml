@@ -18,10 +18,10 @@ jobs:
       - name: Configure Git to treat the repository directory as safe
         run: git config --global --add safe.directory /__w/CI-CD/CI-CD
       - name: Install python3-venv
-        run: sudo apt-get install -y python3-venv
+        run: sudo pip3 install virtualenv
       - name: Create and activate virtual environment
         run: |
-          python -m venv venv
+          virtualenv venv 
           source venv/bin/activate
       - name: Train model
         run: |
