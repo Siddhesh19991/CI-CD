@@ -10,9 +10,9 @@ jobs:
       # - uses: actions/setup-node@v2
       #   with:
       #     node-version: '16'
-      # - uses: actions/setup-python@v4
-      #   with:
-      #     python-version: '3.x'
+      - uses: actions/setup-python@v4
+        with:
+          python-version: "3.12.1"
       - uses: iterative/setup-cml@v3
       - uses: actions/checkout@v3
       - name: Configure Git to treat the repository directory as safe
