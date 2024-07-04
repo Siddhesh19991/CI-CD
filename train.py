@@ -5,7 +5,6 @@ import mysql.connector
 from sklearn.metrics import mean_squared_error, r2_score, mean_absolute_error
 from sklearn.model_selection import train_test_split, cross_val_score, learning_curve
 from sklearn.preprocessing import StandardScaler
-import joblib
 import matplotlib.pyplot as plt
 import pickle
 import seaborn as sns
@@ -192,5 +191,5 @@ with open("metrics.json", "w") as outfile:
     json.dump({"Mean Absolute error (Millions in Kr)": mae,
               "Mean Square error (Millions in Kr)": mse, "R-squared score": r2}, outfile)
 
-# pickle.dump(model, open("model.pkl", "wb"))
-joblib.dump(model, 'model.joblib')
+pickle.dump(model, open("model.pkl", "wb"))
+# joblib.dump(model, 'model.joblib')
