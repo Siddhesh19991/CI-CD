@@ -1,0 +1,64 @@
+name: Web Scraping
+
+on:
+  schedule:
+    #    - cron: "0 0 1 1,3,5,7,9,11 *" # Run on the 1st of Jan, Mar, May, Jul, Sep, and Nov at midnight UTC
+    - cron: "0 0 1 * *" # Run on the 1st of every month at midnight UTC
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: iterative/setup-cml@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.12.1"
+
+      - name: Install Chrome and Chromedriver
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y chromium-browser chromium-chromedriver
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements_scrape.txt
+
+      - name: Install MySQL client
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y mysql-client
+
+      - name: Set locale
+        run: |
+          sudo apt-get install -y locales
+          sudo locale-gen sv_SE.UTF-8
+          export LC_ALL=sv_SE.UTF-8
+          export LANG=sv_SE.UTF-8
+
+      - name: Run Python script with MySQL connection
+        env:
+          DB_USER: ${{ secrets.PASSWORD_SQL }}
+          DB_PASSWORD: ${{ secrets.USERNAME_SQL }}
+        run: |
+          python Scraper.py
+      - name: Create CML report
+        env:
+          REPO_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          #report the diff
+          echo "##New Data scraped and pushed to the Azure SQL database" > report.md 
+          cml comment create report.md
+      - name: Commit and push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --global user.name "${GITHUB_ACTOR}"
+          git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+          git add data.csv  
+          git commit -m "Add data"
+          git push origin HEAD:main

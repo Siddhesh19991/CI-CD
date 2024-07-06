@@ -21,7 +21,7 @@ db = mysql.connector.connect(
     database="sweden_property"
 )
 cursor = db.cursor()
-cursor.execute("SELECT * FROM sweden_property.property_prices")
+cursor.execute("SELECT * FROM sweden_property.housing_prices")
 data = cursor.fetchall()
 
 column_names = [desc[0] for desc in cursor.description]
@@ -41,7 +41,7 @@ del df["Release_form"]
 del df["Location"]
 del df["Total_no_Floors"]
 del df["Starting_price"]
-del df["S_No"]
+# del df["S_No"]
 del df["Floor"]
 
 # Fixing the data type
@@ -50,6 +50,9 @@ df["Built_on"] = df["Built_on"].astype("category")
 
 df = df.dropna(subset=['Municipality'])
 
+df["Lift"] = df["Lift"].map({'No': 0, 'Yes': 1})
+
+df["Balcony"] = df["Balcony"].map({'No': 0, 'Yes': 1})
 
 # One-hot encoding
 df = pd.get_dummies(df, columns=['Built_on'], dtype='int')
