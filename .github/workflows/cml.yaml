@@ -16,7 +16,7 @@ jobs:
       - uses: iterative/setup-cml@v3
       - uses: actions/checkout@v3
       - name: Configure Git to treat the repository directory as safe
-        run: git config --global --add safe.directory /__w/CI-CD/CI-CD
+        run: git config --global --add safe.directory /__w/sweden_property_prediction/sweden_property_prediction
       - name: Train model
         run: |
           # Your ML workflow goes here
