@@ -9,6 +9,12 @@ import matplotlib.pyplot as plt
 import pickle
 import seaborn as sns
 import json
+import os
+
+
+db_sql = os.getenv('DB_SQL')
+db_name = os.getenv('DB_NAME')
+db_port = os.getenv('DB_PORT')
 
 
 # Get the data from the MySQL Azure Database:
@@ -16,9 +22,11 @@ import json
 db = mysql.connector.connect(
     user="siddhesh",
     password="Zxcvbnm1234",
-    host="database101.mysql.database.azure.com",
-    port=3306,
-    database="sweden_property"
+    # Kept the credientials open to the public for now due to restriction issues when using github secerts for MySQL. But the database is still secure since the below
+    # inputs are kept secret.
+    host=db_sql,
+    port=db_port,
+    database=db_name
 )
 cursor = db.cursor()
 cursor.execute("SELECT * FROM sweden_property.housing_prices")

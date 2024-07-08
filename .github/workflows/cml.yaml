@@ -18,6 +18,10 @@ jobs:
       - name: Configure Git to treat the repository directory as safe
         run: git config --global --add safe.directory /__w/sweden_property_prediction/sweden_property_prediction
       - name: Train model
+        env:
+          DB_SQL: ${{ secrets.DATABSE_SQL }}
+          DB_NAME: ${{ secrets.DATABSE_NAME }}
+          DB_PORT: ${{ secrets.DATABASE_PORT }}
         run: |
           # Your ML workflow goes here
           pip install -r requirements.txt
