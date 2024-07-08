@@ -9,8 +9,7 @@ The project encompasses several critical steps: data collection, data cleaning, 
 Before we begin, let's have a look at the [app](https://swedenhomepredict.azurewebsites.net/): 
 
 
-
-https://github.com/Siddhesh19991/sweden_property_prediction/assets/65071692/79310745-0b65-46e9-aa06-a3d1dafd10fc
+![abc](https://github.com/Siddhesh19991/sweden_property_prediction/assets/65071692/e406a3ed-266d-473d-9637-f06f72d1a888)
 
 
 
