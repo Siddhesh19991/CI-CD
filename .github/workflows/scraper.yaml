@@ -43,8 +43,9 @@ jobs:
 
       - name: Run Python script with MySQL connection
         env:
-          DB_USER: ${{ secrets.PASSWORD_SQL }}
-          DB_PASSWORD: ${{ secrets.USERNAME_SQL }}
+          DB_SQL: ${{ secrets.DATABSE_SQL }}
+          DB_NAME: ${{ secrets.DATABSE_NAME }}
+          DB_PORT: ${{ secrets.DATABASE_PORT }}
         run: |
           python Scraper.py
       - name: Create CML report
