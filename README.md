@@ -9,6 +9,11 @@ The project encompasses several critical steps: data collection, data cleaning, 
 Before we begin, let's have a look at the [app](https://swedenhomepredict.azurewebsites.net/): 
 
 
+
+https://github.com/Siddhesh19991/sweden_property_prediction/assets/65071692/79310745-0b65-46e9-aa06-a3d1dafd10fc
+
+
+
 As you can see, the app enables users to input specific parameters and submit them. Upon submission, it generates and displays a predicted property price based on the provided inputs.
 
 
