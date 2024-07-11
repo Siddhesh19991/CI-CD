@@ -655,9 +655,9 @@ db = mysql.connector.connect(
     password="Zxcvbnm1234",
     # Kept the credientials open to the public for now due to restriction issues when using github secerts for MySQL. But the database is still secure since the below
     # inputs are kept secret.
-    host=db_sql,
-    port=db_port,
-    database=db_name
+    host="database101.mysql.database.azure.com",
+    port=3306,
+    database="sweden_property"
 )
 
 cursor = db.cursor()
