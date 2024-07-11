@@ -1,0 +1,461 @@
+,House_Name,Location,Municipality,House_type,Release_form,Rooms,Floor,Total_no_Floors,Lift,Balcony,Living_area,Plot_area,Other_area,Built_on,Charge,Operating_cost,Sold_date,Starting_price,Price_Change,Final_Price
+0,Färsnagatan 5a,Färsna,Norrtälj,Lägenhet,Bostadsrätt,4,1,2,No,Yes,81.0,0.0,0.0,2011-present,5537.0,13750.0,2024-07-10,2.295,0.185,2.11
+1,Åbjörnsgatan 38e,Gyllenfors,Gislaved,Lägenhet,Bostadsrätt,2,1,2,No,Yes,61.4,0.0,0.0,1951-2000,4970.0,13750.0,2024-07-10,0.295,-0.06,0.355
+2,Ymergatan 15 E,Fålhagen,Uppsal,Lägenhet,Bostadsrätt,1,1,3,No,Yes,39.5,0.0,0.0,1900-1950,2571.0,4680.0,2024-07-10,1.995,-0.095,2.09
+3,Kubikenborgsgatan 15 B,Kubikenborg,Sundsvall,Lägenhet,Bostadsrätt,1,0,3,No,Yes,38.5,0.0,0.0,1951-2000,2852.0,8568.0,2024-07-10,0.395,0.0,0.395
+4,Neptungatan 4,ÖsterMälarstrand,Västerå,Lägenhet,Bostadsrätt,2,1,0,Yes,Yes,54.0,0.0,0.0,2011-present,3427.0,11256.0,2024-07-10,2.395,-0.145,2.54
+7,Dansbanevägen 11 - Högst upp,Centralt,Österåker,Lägenhet,Bostadsrätt,2,5,5,Yes,Yes,61.0,0.0,0.0,2011-present,4226.0,13750.0,2024-07-10,2.495,0.0,2.495
+8,Storgatan 43H,Davidshall,Malm,Lägenhet,Bostadsrätt,3,6,6,Yes,Yes,93.0,0.0,0.0,1900-1950,6613.0,7843.0,2024-07-10,6.495,0.03,6.465
+9,Porlabacken 37,Hagsätra,Stockholm,Lägenhet,Bostadsrätt,3,2,3,No,Yes,70.0,0.0,0.0,1951-2000,5363.0,3000.0,2024-07-10,1.695,0.105,1.59
+11,Fastlagsgatan 17,Kortedala,Göteborg,Lägenhet,Bostadsrätt,3,2,8,Yes,Yes,66.5,0.0,0.0,1951-2000,6212.0,13750.0,2024-07-10,1.695,-0.045,1.74
+12,Norrbäcksgatan 17,Kroksbäck,Malm,Lägenhet,Bostadsrätt,3,8,8,Yes,Yes,87.5,0.0,0.0,1951-2000,6094.0,13750.0,2024-07-10,1.795,0.0,1.795
+13,Gustav Garvares gata 3B,Haga,Ume,Lägenhet,Bostadsrätt,2,2,3,No,Yes,55.5,0.0,0.0,1900-1950,3654.0,13750.0,2024-07-10,1.995,0.0,1.995
+14,Biblioteksgången 2,TäbyCentrum,Täb,Lägenhet,Bostadsrätt,1,7,8,Yes,Yes,48.0,0.0,0.0,1951-2000,3103.0,5000.0,2024-07-10,2.495,-0.045,2.54
+15,Särstavägen 3B,Knivsta,Knivst,Lägenhet,Bostadsrätt,2,2,3,No,Yes,55.9,0.0,0.0,2011-present,4800.0,13750.0,2024-07-10,1.695,-0.13,1.825
+16,Trädgårdsgärdet 182,Angered,Göteborg,Lägenhet,Bostadsrätt,4,4,4,Yes,Yes,113.0,0.0,0.0,1951-2000,7665.0,14700.0,2024-07-10,1.595,-0.025,1.62
+17,Malgomajvägen 9,Årsta,Stockholm,Lägenhet,Bostadsrätt,2,2,3,No,Yes,57.0,0.0,0.0,1900-1950,3859.0,6800.0,2024-07-10,2.895,0.24,2.655
+18,"Torsplan 10, vån 13",Vasastan/Hagastaden,Stockholm,Lägenhet,Bostadsrätt,3,0,0,Yes,Yes,92.0,0.0,0.0,2011-present,7720.0,13750.0,2024-07-10,12.0,0.8,11.2
+19,Storgatan 111,Älvsbacka,Skellefte,Lägenhet,Bostadsrätt,2,1,5,Yes,Yes,48.0,0.0,0.0,2011-present,4400.0,1800.0,2024-07-10,1.55,0.0,1.55
+20,Plantagegatan 3A,Linné,Göteborg,Lägenhet,Bostadsrätt,2,4,7,Yes,Yes,61.0,0.0,0.0,1951-2000,3419.0,7560.0,2024-07-10,2.95,0.75,2.2
+21,Västergatan 29A,Haga,Sundsvall,Lägenhet,Bostadsrätt,1,2,3,No,Yes,36.0,0.0,0.0,1951-2000,2299.0,2520.0,2024-07-10,0.795,-0.02,0.815
+22,"Pingstvägen 44, 3 tr.",Midsommarkransen/Telefonplan,Stockholm,Lägenhet,Bostadsrätt,1,3,3,No,No,35.0,0.0,0.0,1900-1950,3206.0,5412.0,2024-07-10,2.595,0.0,2.595
+23,Björcksgatan 30C,Kålltorp,Göteborg,Lägenhet,Bostadsrätt,4,0,0,No,No,112.0,0.0,0.0,2011-present,8300.0,13750.0,2024-07-10,4.495,0.005,4.49
+24,Havstenavägen 13 C,Havstena,Skövd,Lägenhet,Bostadsrätt,3,2,3,No,Yes,77.5,0.0,0.0,1951-2000,4510.0,5500.0,2024-07-10,1.395,0.065,1.33
+25,Slättängsgatan 27 A,LommaTätort,Lomm,Lägenhet,Bostadsrätt,3,4,4,No,Yes,85.5,0.0,0.0,1951-2000,6301.0,7848.0,2024-07-10,2.595,-0.17,2.765
+26,Ångfärjekajen 22,Varvsstaden,Malm,Lägenhet,Bostadsrätt,3,5,0,Yes,Yes,74.0,0.0,0.0,2011-present,5029.0,13750.0,2024-07-10,4.395,0.0,4.395
+27,Knapegatan 5A,CentralaHisingen,Göteborg,Lägenhet,Bostadsrätt,2,1,3,No,No,44.0,0.0,0.0,1900-1950,3185.0,7200.0,2024-07-10,1.795,0.0,1.795
+28,Kulladalsgatan 6C,Kulladal,Malm,Lägenhet,Bostadsrätt,2,5,8,Yes,Yes,62.0,0.0,0.0,1951-2000,4057.0,2220.0,2024-07-10,1.495,0.0,1.495
+29,Industrigatan 15B,Högbrunn,Nyköping,Lägenhet,Bostadsrätt,2,3,3,No,Yes,56.5,0.0,0.0,1951-2000,3874.0,7044.0,2024-07-10,1.1,-0.105,1.205
+31,Kavaljersgatan 17,HisingsBacka,Göteborg,Lägenhet,Bostadsrätt,3,2,3,No,Yes,74.3,0.0,0.0,1951-2000,5755.0,13750.0,2024-07-10,1.775,0.125,1.65
+32,Ostindiefararen 65,Eriksberg,Göteborg,Lägenhet,Bostadsrätt,3,1,9,Yes,Yes,95.0,0.0,0.0,2001-2010,5425.0,4860.0,2024-07-10,5.995,0.305,5.69
+33,Einar Hansens Esplanad 34,VästraHamnen,Malm,Lägenhet,Bostadsrätt,2,4,7,Yes,Yes,54.0,0.0,0.0,2011-present,4456.0,13750.0,2024-07-10,2.425,-0.1,2.525
+34,Annebergsgatan 10C,Borgmästaregården,Malm,Lägenhet,Bostadsrätt,4,8,8,Yes,Yes,108.5,0.0,0.0,1951-2000,7414.0,7040.0,2024-07-10,2.895,0.505,2.39
+35,Staketgatan 9,CentralaGävle,Gävl,Lägenhet,Bostadsrätt,2,2,5,Yes,No,92.0,0.0,0.0,Before 1900s,4921.0,6683.0,2024-07-10,2.3,0.26,2.04
+36,Fältjägarvägen 36A,Prästbordet,Skellefte,Lägenhet,Bostadsrätt,1,2,3,No,No,26.5,0.0,0.0,1951-2000,2083.0,7002.0,2024-07-10,0.695,0.105,0.59
+37,Mariehemsvägen 90,Mariestrand,Ume,Lägenhet,Bostadsrätt,2,8,9,Yes,Yes,58.5,0.0,0.0,2011-present,3987.0,13750.0,2024-07-10,1.795,0.105,1.69
+38,Hovsgatan 11 A,Centrum,Härnösand,Lägenhet,Bostadsrätt,3,2,3,No,Yes,66.0,0.0,0.0,1900-1950,4403.0,1800.0,2024-07-10,0.65,0.0,0.65
+39,Svartbäcksgatan 87B,Svartbäcken,Uppsal,Lägenhet,Bostadsrätt,2,3,3,No,Yes,54.0,0.0,0.0,1900-1950,3865.0,7464.0,2024-07-10,1.895,-0.045,1.94
+40,Mårtensgatan 6 A,Ljusdal,C,Lägenhet,Bostadsrätt,3,2,3,No,Yes,75.5,0.0,0.0,1951-2000,4324.0,4800.0,2024-07-10,0.925,0.125,0.8
+41,Bassängkajen 26,Varvsstaden,Malm,Lägenhet,Bostadsrätt,1,5,7,Yes,Yes,29.4,0.0,0.0,2011-present,3320.0,3732.0,2024-07-10,1.69,-0.04,1.73
+42,Björkebogatan 10K,Tomelilla,Tomelill,Lägenhet,Bostadsrätt,3,2,2,No,Yes,82.0,0.0,0.0,1951-2000,5796.0,13750.0,2024-07-10,0.895,-0.075,0.97
+43,Solhöjdsgatan 9,Varvsstaden,Malm,Lägenhet,Bostadsrätt,3,7,7,Yes,Yes,89.0,0.0,0.0,2011-present,6121.0,7720.0,2024-07-10,6.495,-0.045,6.54
+44,"Blekegatan 1, vån. 6",Liljehholmskajen,Stockholm,Lägenhet,Bostadsrätt,3,6,0,Yes,Yes,89.0,0.0,0.0,2001-2010,4032.0,7200.0,2024-07-10,6.495,0.405,6.09
+45,Stockholmsgatan 40P,Bagaregården,Göteborg,Lägenhet,Bostadsrätt,2,3,3,No,No,64.5,0.0,0.0,1900-1950,4691.0,9360.0,2024-07-10,3.75,0.0,3.75
+46,Fyrislundsgatan 36,Årsta,Uppsal,Lägenhet,Bostadsrätt,3,3,6,Yes,Yes,85.5,0.0,0.0,1951-2000,4916.0,4040.0,2024-07-10,2.195,0.0,2.195
+47,Hannes Alfvéns gata 5,Vallastaden,Linköping,Lägenhet,Bostadsrätt,1,2,5,Yes,No,38.0,0.0,0.0,2011-present,4984.0,13750.0,2024-07-10,1.55,-0.01,1.56
+48,Dalgatan 28,Luthagen,Uppsal,Lägenhet,Bostadsrätt,1,3,3,No,Yes,40.5,0.0,0.0,2011-present,4266.0,13750.0,2024-07-10,1.89,0.11,1.78
+49,Råbyvägen 57G,Gränby,Uppsal,Lägenhet,Bostadsrätt,3,3,0,Yes,Yes,89.0,0.0,0.0,2011-present,4266.0,13750.0,2024-07-10,2.095,0.085,2.01
+50,Sofielundsvägen 37,Enskededalen,Stockholm,Lägenhet,Bostadsrätt,2,5,5,Yes,Yes,41.0,0.0,0.0,2011-present,3245.0,7500.0,2024-07-10,3.195,-0.095,3.29
+52,Idrottsvägen 4,GustavsbergPorslinskvarteren,Värmd,Lägenhet,Bostadsrätt,4,3,4,Yes,Yes,88.0,0.0,0.0,2011-present,4979.0,9692.0,2024-07-10,4.15,-0.155,4.305
+53,Oskarslundsbacken 26,Liljeholmskajen,Stockholm,Lägenhet,Bostadsrätt,4,5,6,Yes,Yes,97.0,0.0,0.0,2011-present,6538.0,10500.0,2024-07-10,6.995,-0.095,7.09
+54,Mjölnarvägen 24,Kvarnholmen,Nack,Lägenhet,Bostadsrätt,3,2,0,Yes,No,106.0,0.0,0.0,1900-1950,5440.0,7800.0,2024-07-10,6.995,-0.62,7.615
+55,Prästgårdsvägen 1A,Skoghall,Hammar,Lägenhet,Bostadsrätt,3,3,3,No,Yes,83.0,0.0,0.0,1951-2000,6158.0,3191.0,2024-07-10,0.8,-0.025,0.825
+56,Kyrkogårdsgatan 17,Druvefors,Borå,Lägenhet,Bostadsrätt,2,7,8,Yes,Yes,53.0,0.0,0.0,2001-2010,4161.0,4536.0,2024-07-10,2.195,-0.195,2.39
+57,Tullgarnsgatan 16,Kungsängen,Uppsal,Lägenhet,Bostadsrätt,3,1,6,Yes,Yes,82.0,0.0,0.0,2011-present,5330.0,13750.0,2024-07-10,2.875,-0.075,2.95
+58,Ingegatan 4R,Iskällan/Centraltvidälven,Kungälv,Lägenhet,Bostadsrätt,1,2,2,No,No,48.0,0.0,0.0,1951-2000,3634.0,3600.0,2024-07-10,1.425,-0.325,1.75
+59,Frestavägen 30,Edsberg,Sollentun,Lägenhet,Bostadsrätt,3,3,4,Yes,Yes,71.0,0.0,0.0,2011-present,4938.0,7800.0,2024-07-10,2.65,0.0,2.65
+60,Vänortsgatan 7A,MölndalBosgården,Mölndal,Lägenhet,Bostadsrätt,1,3,4,No,Yes,21.0,0.0,0.0,1951-2000,2038.0,13750.0,2024-07-10,1.35,0.0,1.35
+61,Surbrunnsgatan 55,Vasastan,Stockholm,Lägenhet,Bostadsrätt,4,7,9,Yes,Yes,84.0,0.0,0.0,1951-2000,6992.0,5600.0,2024-07-10,7.995,-0.595,8.59
+62,Midsommargränd 4,Midsommarkransen,Stockholm,Lägenhet,Bostadsrätt,2,2,4,Yes,Yes,45.0,0.0,0.0,2001-2010,2621.0,13750.0,2024-07-10,3.495,0.13,3.365
+63,Ekoxvägen 10,Ultuna,Uppsal,Lägenhet,Bostadsrätt,4,2,5,Yes,Yes,79.0,0.0,0.0,2011-present,5617.0,5688.0,2024-07-10,2.595,0.0,2.595
+64,Spelmansgatan 59D,Centralt,Kristinehamn,Lägenhet,Bostadsrätt,2,2,3,No,Yes,60.5,0.0,0.0,1951-2000,3896.0,3108.0,2024-07-10,0.295,0.0,0.295
+65,Söderbytorpsgatan 2,Vendelsö,Haning,Lägenhet,Bostadsrätt,2,0,0,No,Yes,42.5,0.0,0.0,2011-present,8808.0,13750.0,2024-07-10,1.595,0.255,1.34
+66,Storgatan 55D,Torshälla,Eskilstun,Lägenhet,Bostadsrätt,2,1,3,No,Yes,53.5,0.0,0.0,1900-1950,3143.0,3720.0,2024-07-10,0.65,0.01,0.64
+67,Ahlbergers väg 6,Högbrunn,Nyköping,Lägenhet,Bostadsrätt,3,2,6,Yes,Yes,62.0,0.0,0.0,1951-2000,4257.0,5028.0,2024-07-10,1.095,0.0,1.095
+68,"Sibeliusgången 34, 2 tr",Akalla,Stockholm,Lägenhet,Bostadsrätt,2,2,0,Yes,Yes,45.0,0.0,0.0,1951-2000,3233.0,13750.0,2024-07-10,1.75,-0.11,1.86
+69,Blomstergatan 35,Gideonsberg,Västerå,Lägenhet,Bostadsrätt,2,4,0,No,Yes,62.0,0.0,0.0,2011-present,4266.0,13750.0,2024-07-10,0.995,0.405,0.59
+70,Wetterlinsgatan 26B,Falköping,Falköping,Lägenhet,Bostadsrätt,3,1,3,No,Yes,70.0,0.0,0.0,1951-2000,5349.0,10992.0,2024-07-10,0.235,0.0,0.235
+71,Lojovägen 84,Rudboda,Liding,Lägenhet,Bostadsrätt,4,2,4,Yes,Yes,92.0,0.0,0.0,2011-present,6259.0,13750.0,2024-07-10,6.85,0.0,6.85
+72,Drottninggatan 32D,Jakobsberg,Västerå,Lägenhet,Bostadsrätt,2,3,3,Yes,Yes,55.0,0.0,0.0,2011-present,4266.0,13750.0,2024-07-10,1.195,-0.02,1.215
+73,Dalgårdsgatan 8 A,Dalen,Boxholm,Lägenhet,Bostadsrätt,3,3,3,No,Yes,79.0,0.0,0.0,1951-2000,3239.0,3600.0,2024-07-10,0.795,-0.045,0.84
+74,Ekedalsvägen 15A,Jakobsberg,Järfäll,Lägenhet,Bostadsrätt,3,0,3,Yes,Yes,55.0,0.0,0.0,1951-2000,4123.0,13750.0,2024-07-10,1.595,0.08,1.515
+75,Nyängsvägen 2,Tullinge,Botkyrk,Lägenhet,Bostadsrätt,3,2,4,Yes,Yes,75.0,0.0,0.0,2011-present,5555.0,7800.0,2024-07-10,2.795,0.0,2.795
+76,Mjölnergatan 14,Märsta,Sigtun,Lägenhet,Bostadsrätt,2,6,7,Yes,Yes,36.0,0.0,0.0,2011-present,3154.0,9804.0,2024-07-10,0.995,-0.095,1.09
+77,Tellusgatan 41,Bergsjön,Göteborg,Lägenhet,Bostadsrätt,1,7,9,Yes,Yes,40.0,0.0,0.0,2011-present,3169.0,8352.0,2024-07-10,0.98,0.0,0.98
+78,Lasarettsgatan 40A,Centrum,Gällivar,Lägenhet,Bostadsrätt,1,1,3,No,Yes,44.5,0.0,0.0,1951-2000,4281.0,2400.0,2024-07-10,0.795,0.12,0.675
+79,Storvretsvägen 45,Skogås,Hudding,Lägenhet,Bostadsrätt,4,2,2,No,Yes,96.0,0.0,0.0,2011-present,3960.0,13750.0,2024-07-10,1.75,0.35,1.4
+80,Karlagatan 34,Herrhagen,Karlstad,Lägenhet,Bostadsrätt,3,2,4,Yes,Yes,80.0,0.0,0.0,1951-2000,5612.0,7536.0,2024-07-10,1.75,-0.1,1.85
+81,Vardövägen 86,Vega,Haning,Lägenhet,Bostadsrätt,2,0,4,Yes,Yes,55.0,0.0,0.0,2011-present,3655.0,13750.0,2024-07-10,2.295,-0.045,2.34
+82,Ersåsbacken 68,Önnered,Göteborg,Lägenhet,Bostadsrätt,2,2,2,No,Yes,65.0,0.0,0.0,2011-present,4140.0,13750.0,2024-07-10,2.95,-0.15,3.1
+83,Blidvädersgränd 2 E,Fasseröd,Uddevall,Lägenhet,Bostadsrätt,3,2,2,No,Yes,70.0,0.0,0.0,2011-present,4800.0,13750.0,2024-07-10,1.695,-0.145,1.84
+84,Ehrensvärdsgatan 6,Kungsholmen,Stockholm,Lägenhet,Bostadsrätt,1,5,6,Yes,No,29.0,0.0,0.0,1900-1950,1382.0,4500.0,2024-07-10,2.995,0.305,2.69
+85,Inteckningsvägen 21,Hägerstensåsen,Stockholm,Lägenhet,Bostadsrätt,2,2,3,No,Yes,51.0,0.0,0.0,1900-1950,3267.0,13750.0,2024-07-10,2.995,-0.095,3.09
+86,Gethes väg 4,SödraKalmar,Kalma,Lägenhet,Bostadsrätt,2,2,3,No,Yes,52.5,0.0,0.0,1951-2000,3665.0,3600.0,2024-07-10,1.05,0.0,1.05
+87,Tallvägen 9A,Bredsand,Sundsvall,Lägenhet,Bostadsrätt,2,2,7,Yes,Yes,63.0,0.0,0.0,1951-2000,4545.0,1248.0,2024-07-10,0.65,-0.01,0.66
+88,Elisetorpsvägen 17B,Arlöv,Burlöv,Lägenhet,Bostadsrätt,2,7,9,Yes,Yes,61.5,0.0,0.0,1951-2000,3369.0,1800.0,2024-07-10,1.095,0.0,1.095
+89,Framnäsbacken 24,Skytteholm,Soln,Lägenhet,Bostadsrätt,1,1,6,Yes,No,25.0,0.0,0.0,1951-2000,1181.0,7400.0,2024-07-10,1.895,-0.045,1.94
+90,Vintergatan 2D,Sundbyberg,Sundbyberg,Lägenhet,Bostadsrätt,2,4,7,Yes,Yes,40.0,0.0,0.0,2011-present,3273.0,4300.0,2024-07-10,2.995,0.105,2.89
+91,Södra Långgatan 79D,Kvarnholmen,Kalma,Lägenhet,Bostadsrätt,1,2,3,Yes,Yes,40.0,0.0,0.0,1900-1950,2897.0,4800.0,2024-07-10,1.395,-0.02,1.415
+92,Nordenskiöldsgatan 6,Linné,Göteborg,Lägenhet,Bostadsrätt,2,6,8,Yes,Yes,64.9,0.0,0.0,1951-2000,4279.0,3250.0,2024-07-10,3.995,0.305,3.69
+94,Järnåkravägen 7C,Järnåkra,Lund,Lägenhet,Bostadsrätt,3,2,4,No,Yes,88.2,0.0,0.0,1951-2000,3733.0,13750.0,2024-07-10,2.995,0.055,2.94
+95,Sparbanksvägen 81,Hägerstensåsen,Stockholm,Lägenhet,Bostadsrätt,2,1,3,No,Yes,51.0,0.0,0.0,1900-1950,3947.0,5500.0,2024-07-10,2.495,0.18,2.315
+96,Sandfjärdsgatan 10,Årsta,Stockholm,Lägenhet,Bostadsrätt,4,6,0,Yes,Yes,88.0,0.0,0.0,1951-2000,4200.0,3000.0,2024-07-10,3.995,0.125,3.87
+97,Gibraltargatan 60,Johanneberg,Göteborg,Lägenhet,Bostadsrätt,1,4,5,Yes,Yes,31.0,0.0,0.0,1900-1950,2482.0,3900.0,2024-07-10,2.495,-0.095,2.59
+98,"Hägerstensvägen 185, 2 tr.",Aspudden/Örnsberg,Stockholm,Lägenhet,Bostadsrätt,2,2,3,No,Yes,48.0,0.0,0.0,1900-1950,3332.0,4351.0,2024-07-10,2.995,0.105,2.89
+99,Ugglevägen 14C,Orrängen,Oskarshamn,Lägenhet,Bostadsrätt,1,1,3,Yes,No,35.0,0.0,0.0,1951-2000,2809.0,3000.0,2024-07-10,0.475,0.045,0.43
+100,Östra brinkvägen 43,VästPåStan,Ume,Lägenhet,Bostadsrätt,3,1,3,No,Yes,78.0,0.0,0.0,1951-2000,3569.0,13750.0,2024-07-10,2.795,0.055,2.74
+101,Strömgatan 5C,Centralt,Kalma,Lägenhet,Bostadsrätt,3,2,3,No,No,113.0,0.0,0.0,Before 1900s,6890.0,7500.0,2024-07-10,3.2,0.0,3.2
+102,Värnamovägen 3,Granloholm,Sundsvall,Lägenhet,Bostadsrätt,1,2,4,Yes,Yes,57.0,0.0,0.0,1951-2000,4695.0,1740.0,2024-07-10,0.675,-0.035,0.71
+103,Geodetgatan 29,Hemlingby,Gävl,Lägenhet,Bostadsrätt,3,3,3,Yes,Yes,72.0,0.0,0.0,2011-present,8964.0,13750.0,2024-07-10,1.72,-0.035,1.755
+104,Gröna gatan 13A,Torpa,Jönköping,Lägenhet,Bostadsrätt,1,2,3,No,No,24.0,0.0,0.0,1900-1950,1864.0,13750.0,2024-07-10,1.295,-0.025,1.32
+105,Limhamnsvägen 10A,Ribersborg,Malm,Lägenhet,Bostadsrätt,4,7,10,Yes,Yes,89.0,0.0,0.0,1951-2000,6557.0,13750.0,2024-07-10,5.295,0.0,5.295
+106,Hallandsgatan 37,Slottsjorden,Halmstad,Lägenhet,Bostadsrätt,3,2,2,No,Yes,59.0,0.0,0.0,1900-1950,3402.0,7800.0,2024-07-09,1.795,0.0,1.795
+107,Theodor Hellmans Väg 60,Murberget,Härnösand,Lägenhet,Bostadsrätt,2,1,3,No,Yes,64.7,0.0,0.0,1951-2000,3460.0,2052.0,2024-07-09,0.32,-0.01,0.33
+108,Bygdegatan 407,Lambohov,Linköping,Lägenhet,Bostadsrätt,2,2,2,No,Yes,77.0,0.0,0.0,1951-2000,4541.0,5400.0,2024-07-09,1.195,0.01,1.185
+109,Kungsgatan 15A,Centralt,Hörb,Lägenhet,Bostadsrätt,2,2,3,No,Yes,54.5,0.0,0.0,1951-2000,4782.0,5230.0,2024-07-09,0.745,-0.015,0.76
+111,Slåtterbalksgatan 31,Åkerbruket,Svedal,Lägenhet,Bostadsrätt,2,1,4,Yes,Yes,55.0,0.0,0.0,2011-present,4970.0,4624.0,2024-07-09,1.595,0.0,1.595
+112,Lindormsgatan 3,Sjöbo,Borå,Lägenhet,Bostadsrätt,2,2,3,No,Yes,52.0,0.0,0.0,1951-2000,3768.0,120.0,2024-07-09,0.795,-0.046,0.841
+113,Kärrets väg 9 A,Arvidstorp,Falkenberg,Lägenhet,Bostadsrätt,3,2,3,No,Yes,72.5,0.0,0.0,1951-2000,5448.0,5546.0,2024-07-09,1.15,-0.05,1.2
+114,Mörsilsgatan 28,VällingbyCentrum,Stockholm,Lägenhet,Bostadsrätt,4,0,3,No,Yes,78.0,0.0,0.0,1951-2000,4871.0,3600.0,2024-07-09,2.695,0.23,2.465
+115,Ögontröstgatan 1A,CentralaHisingen,Göteborg,Lägenhet,Bostadsrätt,2,1,4,No,No,50.0,0.0,0.0,1900-1950,3042.0,4200.0,2024-07-09,1.995,0.0,1.995
+116,Växthusvägen 17,Bro,Upplands-Bro,Lägenhet,Bostadsrätt,3,3,3,Yes,Yes,69.0,0.0,0.0,2011-present,5278.0,4800.0,2024-07-09,1.895,-0.12,2.015
+117,Gransikagatan 8C,Norrmalm,Skövd,Lägenhet,Bostadsrätt,3,2,3,No,Yes,84.0,0.0,0.0,1900-1950,4765.0,4461.0,2024-07-09,1.995,0.255,1.74
+118,Näckrosvägen 22,Råsunda,Soln,Lägenhet,Bostadsrätt,2,0,0,No,Yes,53.5,0.0,0.0,1900-1950,3385.0,5160.0,2024-07-09,3.395,0.205,3.19
+119,"Wargentinsgatan 5D, Vån 4 - Ö.G",Kungsholmen,Stockholm,Lägenhet,Bostadsrätt,2,4,5,Yes,No,40.0,0.0,0.0,1900-1950,2482.0,3702.0,2024-07-09,4.25,0.45,3.8
+120,Ola hanssonsgatan 3,Kristineberg,Stockholm,Lägenhet,Bostadsrätt,1,1,3,No,Yes,28.0,0.0,0.0,1900-1950,1880.0,2000.0,2024-07-09,2.495,0.205,2.29
+121,Västerleden 130,Västerleden,Enköping,Lägenhet,Bostadsrätt,4,1,3,No,Yes,100.0,0.0,0.0,1951-2000,6422.0,8400.0,2024-07-09,1.395,-0.135,1.53
+123,Jutevägen 12,Dalvik,Jönköping,Lägenhet,Bostadsrätt,3,3,3,No,Yes,79.5,0.0,0.0,1951-2000,4648.0,5400.0,2024-07-09,1.65,-0.025,1.675
+124,Svedjevägen 7 C,Björksta,Fagerst,Lägenhet,Bostadsrätt,2,3,3,No,Yes,51.0,0.0,0.0,2011-present,5500.0,13750.0,2024-07-09,0.25,-0.03,0.28
+125,Börjegatan 1B,FrämreLuthagen,Uppsal,Lägenhet,Bostadsrätt,1,2,5,Yes,Yes,20.0,0.0,0.0,1900-1950,1302.0,3000.0,2024-07-09,1.795,0.105,1.69
+127,Petterslundsgatan 33,Fålhagen,Uppsal,Lägenhet,Bostadsrätt,3,1,3,No,Yes,82.4,0.0,0.0,1951-2000,3458.0,8844.0,2024-07-09,2.99,0.11,2.88
+128,Hansagatan 5,Centralt,Tre,Lägenhet,Bostadsrätt,2,2,4,No,Yes,52.0,0.0,0.0,1900-1950,4220.0,3528.0,2024-07-09,1.275,-0.075,1.35
+129,Apotekaregatan 4A,CentralaLinköping,Linköping,Lägenhet,Bostadsrätt,2,3,4,No,No,72.0,0.0,0.0,1900-1950,4129.0,6120.0,2024-07-09,3.095,0.0,3.095
+130,Torsvägen 3,Lövskatan,Lule,Lägenhet,Bostadsrätt,2,2,2,No,Yes,55.0,0.0,0.0,1900-1950,3300.0,1215.0,2024-07-09,1.295,-0.145,1.44
+131,Skolvägen 7 B,ÅkersbergaCentralt,Österåker,Lägenhet,Bostadsrätt,1,1,4,Yes,Yes,47.5,0.0,0.0,1951-2000,3319.0,7200.0,2024-07-09,1.595,-0.095,1.69
+132,Myrstuguvägen 261,Myrstuguberget,Hudding,Lägenhet,Bostadsrätt,3,1,4,Yes,Yes,82.5,0.0,0.0,1951-2000,6786.0,4200.0,2024-07-09,1.995,0.12,1.875
+133,Jämtlandsgatan 107,VällingbyParkstad/Råcksta,Stockholm,Lägenhet,Bostadsrätt,1,0,0,Yes,Yes,36.0,0.0,0.0,2011-present,2503.0,7393.0,2024-07-09,1.795,0.115,1.68
+134,"Emmy Rappes gata 2, 8 tr",VasastanHagastaden,Stockholm,Lägenhet,Bostadsrätt,2,8,0,Yes,Yes,39.0,0.0,0.0,2011-present,2572.0,13750.0,2024-07-09,3.895,0.555,3.34
+135,Solvändan 2B,Haga,Ume,Lägenhet,Bostadsrätt,2,1,3,No,Yes,54.7,0.0,0.0,1900-1950,3551.0,4364.0,2024-07-09,1.85,0.0,1.85
+136,Västra stallmästaregatan 24A,Slottsstaden,Malm,Lägenhet,Bostadsrätt,4,1,4,No,Yes,100.0,0.0,0.0,1900-1950,5355.0,11400.0,2024-07-09,4.195,-0.2,4.395
+137,Allévägen 3B,Barrsätra,Sandviken,Lägenhet,Bostadsrätt,2,0,0,No,Yes,52.5,0.0,0.0,1900-1950,3721.0,5200.0,2024-07-09,0.695,-0.07,0.765
+138,"Rosengatan 3B, vån 3/3",CentralaSundbyberg,Sundbyberg,Lägenhet,Bostadsrätt,1,3,3,No,Yes,33.0,0.0,0.0,1900-1950,3375.0,13750.0,2024-07-09,2.395,0.05,2.345
+139,Skogsgatan 7A,Centralt,Örnsköldsvik,Lägenhet,Bostadsrätt,2,1,3,No,Yes,50.5,0.0,0.0,1951-2000,3706.0,3800.0,2024-07-09,0.895,-0.085,0.98
+140,Kabelverksgatan 44,Älvsjöstaden,Stockholm,Lägenhet,Bostadsrätt,2,4,6,Yes,Yes,48.0,0.0,0.0,2011-present,3776.0,13750.0,2024-07-09,2.795,0.12,2.675
+141,Regnvädersgatan 3,Biskopsgården,Göteborg,Lägenhet,Bostadsrätt,3,7,7,Yes,Yes,72.0,0.0,0.0,1951-2000,3672.0,5400.0,2024-07-09,1.395,-0.045,1.44
+142,Magistergatan 41C,Hörby,Hörb,Lägenhet,Bostadsrätt,3,1,1,No,Yes,80.5,0.0,0.0,1951-2000,3865.0,25867.0,2024-07-09,1.1,-0.125,1.225
+143,Husebygatan 3B,Oxelbergen,Norrköping,Lägenhet,Bostadsrätt,3,4,4,No,Yes,73.0,0.0,0.0,1900-1950,4270.0,4380.0,2024-07-09,1.575,-0.15,1.725
+144,Silverdalsstråket 7,Silverdal,Sollentun,Lägenhet,Bostadsrätt,2,2,3,Yes,Yes,44.0,0.0,0.0,2011-present,3668.0,5220.0,2024-07-09,2.695,-0.095,2.79
+145,Eriksgatan 25B,Centrum,Älmhult,Lägenhet,Bostadsrätt,1,3,3,Yes,Yes,41.0,0.0,0.0,1951-2000,4694.0,2940.0,2024-07-09,0.44,-0.015,0.455
+146,Sågverksvägen 35,Östertälje,Södertälj,Lägenhet,Bostadsrätt,2,0,0,No,Yes,41.0,0.0,0.0,2011-present,4266.0,13750.0,2024-07-09,2.15,-0.025,2.175
+147,Rådhusgatan 95A,Centralt,Östersund,Lägenhet,Bostadsrätt,2,3,3,No,Yes,57.5,0.0,0.0,1900-1950,3850.0,13750.0,2024-07-09,1.15,0.0,1.15
+148,Sallerupsvägen 212A,Husie,Malm,Lägenhet,Bostadsrätt,3,4,4,Yes,Yes,75.0,0.0,0.0,2011-present,2196.0,13750.0,2024-07-09,1.845,-0.075,1.92
+149,Ångermannagatan 158,VällingbyCentrum,Stockholm,Lägenhet,Bostadsrätt,3,0,10,Yes,Yes,76.0,0.0,0.0,1951-2000,5893.0,3240.0,2024-07-09,2.495,0.0,2.495
+150,"Årgångsgatan 7, 2 tr!",Liljeholmskajen,Stockholm,Lägenhet,Bostadsrätt,3,2,7,Yes,Yes,83.0,0.0,0.0,2011-present,5624.0,10050.0,2024-07-09,5.8,0.0,5.8
+151,Källbergsvägen 36,Surahammar,Surahammar,Lägenhet,Bostadsrätt,1,3,3,No,No,26.3,0.0,0.0,1951-2000,2324.0,404.0,2024-07-09,0.295,-0.055,0.35
+152,"Sjöviksvägen 124, 3 tr",Liljeholmskajen,Stockholm,Lägenhet,Bostadsrätt,2,3,8,Yes,Yes,54.0,0.0,0.0,2011-present,3747.0,7850.0,2024-07-09,4.095,0.105,3.99
+153,Skvadronsgatan 6,SödraEkkällan,Linköping,Lägenhet,Bostadsrätt,4,4,5,Yes,Yes,105.0,0.0,0.0,2011-present,6605.0,13750.0,2024-07-09,3.595,0.23,3.365
+154,Industrivägen 26,Centralt,UpplandsVäsb,Lägenhet,Bostadsrätt,3,2,6,Yes,Yes,75.0,0.0,0.0,1951-2000,4609.0,6420.0,2024-07-09,1.995,-0.095,2.09
+155,Guldbrandsgatan 32,Trandared,Borå,Lägenhet,Bostadsrätt,2,4,4,No,Yes,62.0,0.0,0.0,1951-2000,3275.0,4360.0,2024-07-09,1.195,-0.095,1.29
+156,Eskilsgatan 3B,Fålhagen,Uppsal,Lägenhet,Bostadsrätt,1,1,4,No,Yes,38.5,0.0,0.0,1900-1950,2915.0,13750.0,2024-07-09,1.595,0.13,1.465
+157,Täljövikstorget 1,Täljö,Österåker,Lägenhet,Bostadsrätt,3,2,2,Yes,Yes,96.0,0.0,0.0,2011-present,6224.0,13750.0,2024-07-09,3.895,-0.095,3.99
+159,"Sjöviksvägen 34, 4 tr!",Liljeholmskajen,Stockholm,Lägenhet,Bostadsrätt,4,4,6,Yes,Yes,101.5,0.0,0.0,2001-2010,5620.0,10700.0,2024-07-09,7.795,0.28,7.515
+160,Parternas gränd 63,Fredslyckan,Lund,Lägenhet,Bostadsrätt,2,4,4,Yes,Yes,48.0,0.0,0.0,2001-2010,4816.0,13750.0,2024-07-09,1.695,0.005,1.69
+161,Åsgatan 10,Avesta,Avest,Lägenhet,Bostadsrätt,3,2,7,Yes,Yes,74.0,0.0,0.0,1951-2000,3212.0,6960.0,2024-07-09,0.75,0.055,0.695
+162,Hemmansgatan 95,Anderstorp,Skellefte,Lägenhet,Bostadsrätt,2,0,0,No,No,56.5,0.0,0.0,2011-present,12336.0,13750.0,2024-07-09,1.05,0.11,0.94
+163,Fasanvägen 5D,Perstorp,Perstorp,Lägenhet,Bostadsrätt,2,3,3,No,Yes,52.0,0.0,0.0,1951-2000,3959.0,7836.0,2024-07-09,0.185,-0.01,0.195
+164,Lillgårdens Gränd 3,NyaHovås,Göteborg,Lägenhet,Bostadsrätt,4,3,6,Yes,Yes,84.5,0.0,0.0,2011-present,5433.0,8290.0,2024-07-09,4.45,-0.15,4.6
+165,Fjällnäsgränd 40C,Fjällnäs,Gällivar,Lägenhet,Bostadsrätt,2,1,2,No,Yes,63.0,0.0,0.0,1951-2000,5069.0,3000.0,2024-07-09,0.95,0.25,0.7
+166,Fadderortsgatan 2,Rud,Karlstad,Lägenhet,Bostadsrätt,3,8,8,Yes,Yes,77.0,0.0,0.0,1951-2000,4632.0,13750.0,2024-07-09,1.095,-0.095,1.19
+167,Bellmansgatan 114,LÖTEN,Uppsal,Lägenhet,Bostadsrätt,1,1,3,No,Yes,29.5,0.0,0.0,1951-2000,2125.0,3600.0,2024-07-09,1.195,-0.02,1.215
+168,Tångringsgatan 6C,Hagalund,Borläng,Lägenhet,Bostadsrätt,3,1,3,No,Yes,68.5,0.0,0.0,2011-present,4629.0,13750.0,2024-07-09,1.425,-0.125,1.55
+169,Kungsgårdsvägen 26A,Skälby,Kalma,Lägenhet,Bostadsrätt,3,3,3,Yes,Yes,82.5,0.0,0.0,1951-2000,6444.0,3600.0,2024-07-09,1.1,0.0,1.1
+170,Sjöbackevägen 24,Billdal,Göteborg,Lägenhet,Bostadsrätt,4,2,3,Yes,Yes,103.0,0.0,0.0,2011-present,6193.0,12800.0,2024-07-09,4.69,0.06,4.63
+171,Muréngatan 20 B,Söder,Gävl,Lägenhet,Bostadsrätt,2,2,0,Yes,Yes,55.3,0.0,0.0,2011-present,4266.0,13750.0,2024-07-09,1.65,0.15,1.5
+172,Finnbergsvägen 2,Finnberget,Nack,Lägenhet,Bostadsrätt,3,1,5,Yes,Yes,67.0,0.0,0.0,1900-1950,4021.0,5040.0,2024-07-09,3.65,0.275,3.375
+173,Jörgen Ankersgatan 3A,Davidshall,Malm,Lägenhet,Bostadsrätt,3,2,6,Yes,Yes,75.0,0.0,0.0,2011-present,12276.0,13750.0,2024-07-09,3.695,0.1,3.595
+174,Bohusgatan 26,Heden,Göteborg,Lägenhet,Bostadsrätt,4,0,0,No,Yes,117.0,0.0,0.0,2011-present,9864.0,13750.0,2024-07-09,5.345,0.355,4.99
+175,Ammonitgatan 1,Norr,Gotland,Lägenhet,Bostadsrätt,2,1,5,Yes,Yes,50.0,0.0,0.0,2011-present,3959.0,5304.0,2024-07-09,1.975,-0.05,2.025
+176,Sköndalsvägen 111,Sköndal,Stockholm,Lägenhet,Bostadsrätt,4,3,4,Yes,Yes,85.0,0.0,0.0,2011-present,5949.0,13750.0,2024-07-09,3.995,0.775,3.22
+177,Gransätragränd 33,Sätra,Stockholm,Lägenhet,Bostadsrätt,3,2,2,No,Yes,89.5,0.0,0.0,1951-2000,5663.0,13750.0,2024-07-09,2.595,-0.215,2.81
+178,Tulegatan 29A,CentralaSundbyberg,Sundbyberg,Lägenhet,Bostadsrätt,2,2,5,Yes,Yes,37.0,0.0,0.0,1900-1950,2756.0,600.0,2024-07-09,2.75,0.17,2.58
+180,Kalkstensvägen 8,Kalkbrottet/Limhamn,Malm,Lägenhet,Bostadsrätt,2,3,4,Yes,Yes,54.0,0.0,0.0,2011-present,3391.0,13750.0,2024-07-09,2.095,0.08,2.015
+181,Mariehamnsgatan 26,Akalla,Stockholm,Lägenhet,Bostadsrätt,3,0,0,No,Yes,85.0,0.0,0.0,2011-present,4266.0,13750.0,2024-07-09,2.095,-0.195,2.29
+182,Stadsgårdsvägen 9,Holmängen,Vänersborg,Lägenhet,Bostadsrätt,5,0,0,No,Yes,110.0,0.0,0.0,2011-present,25884.0,13750.0,2024-07-09,1.975,-0.375,2.35
+183,Seglaregatan 35,Majorna,Göteborg,Lägenhet,Bostadsrätt,4,3,0,Yes,Yes,91.8,0.0,0.0,1951-2000,7993.0,2760.0,2024-07-09,3.45,0.0,3.45
+184,Norsgatan 6A,Leksand,Leksand,Lägenhet,Bostadsrätt,2,1,2,No,Yes,65.0,0.0,0.0,1951-2000,4113.0,4836.0,2024-07-09,0.995,0.505,0.49
+185,Ekängsgränd 1,TyresöStrand,Tyres,Lägenhet,Bostadsrätt,4,2,3,Yes,Yes,93.0,0.0,0.0,2011-present,5164.0,6480.0,2024-07-09,4.295,0.005,4.29
+186,Byggmästargatan 9c,Uppsala,Uppsal,Lägenhet,Bostadsrätt,2,2,3,No,Yes,66.0,0.0,0.0,1951-2000,3486.0,13750.0,2024-07-09,1.795,0.005,1.79
+187,Östersundsgatan 2,VällingbyParkstad/Råcksta,Stockholm,Lägenhet,Bostadsrätt,2,4,4,Yes,Yes,46.0,0.0,0.0,2011-present,3202.0,3600.0,2024-07-09,2.35,-0.05,2.4
+188,Pastellvägen 10,Blåsut,Stockholm,Lägenhet,Bostadsrätt,2,0,0,No,Yes,55.0,0.0,0.0,2011-present,3420.0,13750.0,2024-07-09,2.995,0.375,2.62
+190,Häggatan 10,ÅbyÄngar,Vallentun,Lägenhet,Bostadsrätt,2,2,2,No,Yes,54.0,0.0,0.0,2011-present,4925.0,13750.0,2024-07-09,1.995,0.105,1.89
+191,Gubbkärrsvägen 15,BROMMA,Stockholm,Lägenhet,Bostadsrätt,4,0,0,No,Yes,98.0,0.0,0.0,2011-present,4266.0,13750.0,2024-07-09,4.85,0.15,4.7
+193,Köpenhamnsvägen 41C,Erikslust/Slottsstaden,Malm,Lägenhet,Bostadsrätt,3,4,7,Yes,Yes,78.5,0.0,0.0,1951-2000,6199.0,4000.0,2024-07-09,3.195,-0.17,3.365
+194,Stockholmsgatan 44c,Bagaregården,Göteborg,Lägenhet,Bostadsrätt,1,2,3,No,No,39.0,0.0,0.0,1900-1950,3125.0,13750.0,2024-07-09,2.195,0.13,2.065
+195,Kolonigatan 9D,LandalaEgnahem,Göteborg,Lägenhet,Bostadsrätt,1,2,4,No,No,38.0,0.0,0.0,1900-1950,2435.0,3450.0,2024-07-09,2.3,0.3,2.0
+196,Herrgårdsvägen 30,CentralaVäsby,UpplandsVäsb,Lägenhet,Bostadsrätt,1,6,7,Yes,Yes,33.5,0.0,0.0,1951-2000,3462.0,13750.0,2024-07-09,1.25,-0.11,1.36
+197,Tegnérsgatan 22,Lorensberg,Göteborg,Lägenhet,Bostadsrätt,1,1,5,Yes,No,40.0,0.0,0.0,1900-1950,2210.0,7560.0,2024-07-09,2.99,-0.215,3.205
+198,Österled 5 B,Äsperöd,Uddevall,Lägenhet,Bostadsrätt,1,1,3,No,No,41.5,0.0,0.0,1951-2000,2541.0,13750.0,2024-07-09,0.625,-0.025,0.65
+199,Nordhemsgatan 10,Linnéstaden,Göteborg,Lägenhet,Bostadsrätt,1,3,0,Yes,No,35.0,0.0,0.0,2011-present,2677.0,6380.0,2024-07-09,2.795,0.03,2.765
+200,Harpsundsvägen 86A,Högdalen,Stockholm,Lägenhet,Bostadsrätt,3,0,0,No,Yes,69.0,0.0,0.0,2011-present,4266.0,13750.0,2024-07-09,2.695,0.255,2.44
+201,Lysviksgatan 15,Farsta,Stockholm,Lägenhet,Bostadsrätt,2,0,0,No,Yes,56.0,0.0,0.0,2011-present,11200.0,13750.0,2024-07-09,2.45,0.05,2.4
+202,Lavettvägen 44,Rissne,Sundbyberg,Lägenhet,Bostadsrätt,4,1,3,Yes,Yes,96.7,0.0,0.0,2011-present,4266.0,13750.0,2024-07-09,2.995,0.08,2.915
+203,Riddaregatan 18C,Funkabo,Kalma,Lägenhet,Bostadsrätt,2,2,3,No,Yes,59.0,0.0,0.0,1951-2000,3194.0,2400.0,2024-07-09,0.9,0.0,0.9
+204,Essingetorget 40,StoraEssingen,Stockholm,Lägenhet,Bostadsrätt,1,2,3,No,No,22.0,0.0,0.0,1900-1950,1561.0,4800.0,2024-07-09,1.995,0.055,1.94
+205,Norrbackagatan 31,Vasastan,Stockholm,Lägenhet,Bostadsrätt,4,0,0,No,No,155.0,0.0,0.0,2011-present,4266.0,13750.0,2024-07-11,19.975,0.625,19.35
+206,Tulpangatan 2,Fosiedal,Malm,Lägenhet,Bostadsrätt,2,8,9,Yes,No,48.5,0.0,0.0,1951-2000,3653.0,3000.0,2024-07-11,0.875,-0.1,0.975
+207,"Kostervägen 2B, 2tr",Lidingö/Baggeby,Liding,Lägenhet,Bostadsrätt,3,2,2,No,No,66.0,0.0,0.0,1951-2000,3722.0,13750.0,2024-07-10,3.295,-0.02,3.315
+208,Norra Sjöbogatan 48,Sjöbo,Borå,Lägenhet,Bostadsrätt,2,1,0,No,No,54.0,0.0,0.0,2011-present,16068.0,13750.0,2024-07-10,0.45,0.04,0.41
+209,Erik Dahlbergsvägen 81B,Centrum,Karlshamn,Lägenhet,Bostadsrätt,2,1,3,No,No,55.0,0.0,0.0,1900-1950,3426.0,4020.0,2024-07-10,0.925,0.035,0.89
+210,Grengatan 5D,Sjöbo,Sjöb,Lägenhet,Bostadsrätt,2,1,3,No,No,59.0,0.0,0.0,1951-2000,4714.0,4278.0,2024-07-10,0.595,-0.045,0.64
+211,Åsenvägen 23,Ucklum,Stenungsund,Lägenhet,Bostadsrätt,2,1,2,No,No,67.8,0.0,0.0,1951-2000,4598.0,13750.0,2024-07-10,1.25,-0.05,1.3
+212,Grinneberget 3D,Dyrön,Tjörn,Lägenhet,Bostadsrätt,2,1,2,No,No,59.5,0.0,0.0,1900-1950,4429.0,7400.0,2024-07-10,1.995,0.0,1.995
+213,Torggatan 23 I,Vara,Var,Lägenhet,Bostadsrätt,2,1,2,No,No,64.0,0.0,0.0,1951-2000,4032.0,3700.0,2024-07-10,0.475,0.09,0.385
+214,Talluddsvägen 7E,Björknäs,Nack,Lägenhet,Bostadsrätt,3,3,3,No,No,69.0,0.0,0.0,1951-2000,5463.0,2196.0,2024-07-10,2.25,-0.075,2.325
+215,Kungsängsgatan 1 A,Salatätort,Sal,Lägenhet,Bostadsrätt,1,1,3,No,No,38.0,0.0,0.0,1951-2000,3037.0,6552.0,2024-07-10,0.75,-0.08,0.83
+216,Kastellvägen 12,Hudiksvall,Hudiksvall,Lägenhet,Bostadsrätt,3,4,5,Yes,No,81.0,0.0,0.0,2011-present,5642.0,1152.0,2024-07-10,2.995,-0.12,3.115
+217,Fjärås Lantmannaväg 2F,Fjärås,Kungsback,Lägenhet,Bostadsrätt,4,0,0,No,No,105.0,0.0,0.0,2011-present,4266.0,13750.0,2024-07-10,3.295,-0.195,3.49
+218,Svärdlångsvägen 19A,Årsta,Stockholm,Lägenhet,Bostadsrätt,2,0,0,No,No,50.0,0.0,0.0,2011-present,1428.0,13750.0,2024-07-10,1.75,0.2,1.55
+219,Rosenhöjdsvägen 23,Rosenlund,Södertälj,Lägenhet,Bostadsrätt,3,5,0,Yes,No,84.0,0.0,0.0,1951-2000,6309.0,3000.0,2024-07-10,1.85,0.0,1.85
+220,Kungsgatan 24,Centrum,Boden,Lägenhet,Bostadsrätt,2,2,5,Yes,No,64.0,0.0,0.0,1951-2000,4192.0,3480.0,2024-07-10,1.295,0.0,1.295
+221,Västra Sundskogsvägen 41,Sund/sundsstrand,Uddevall,Lägenhet,Bostadsrätt,4,6,6,Yes,No,102.0,0.0,0.0,2011-present,6787.0,6190.0,2024-07-10,4.395,-0.225,4.62
+222,Drottninggatan 46 B,Centrum,Trollhättan,Lägenhet,Bostadsrätt,1,2,3,No,No,40.5,0.0,0.0,1900-1950,3581.0,4200.0,2024-07-10,0.7,-0.1,0.8
+223,Ängsrogatan 3C,Mariebo,Jönköping,Lägenhet,Bostadsrätt,3,2,3,No,No,74.0,0.0,0.0,2011-present,4800.0,13750.0,2024-07-10,2.095,-0.075,2.17
+224,Mariebergsgatan 26B,Nyckelberget,Köping,Lägenhet,Bostadsrätt,2,1,3,No,No,77.0,0.0,0.0,2011-present,4500.0,13750.0,2024-07-10,0.75,-0.14,0.89
+225,Smultronvägen 20,Rörstorp,Värnam,Lägenhet,Bostadsrätt,2,2,3,No,No,60.0,0.0,0.0,2011-present,4620.0,13750.0,2024-07-10,0.645,0.025,0.62
+226,Stävgatan 7C,Edvinshem,Ystad,Lägenhet,Bostadsrätt,3,1,1,No,No,77.5,0.0,0.0,1951-2000,4770.0,9360.0,2024-07-10,2.195,0.155,2.04
+227,Industrigatan 13C,Högbrunn,Nyköping,Lägenhet,Bostadsrätt,3,3,3,No,No,72.5,0.0,0.0,1951-2000,4925.0,4800.0,2024-07-10,1.495,-0.095,1.59
+228,Smedstuguplan 13,Haga,Norrköping,Lägenhet,Bostadsrätt,3,1,3,No,No,77.0,0.0,0.0,2011-present,5400.0,13750.0,2024-07-10,1.295,-0.255,1.55
+229,Söderväg 1D,GotlandVästra,Gotland,Lägenhet,Bostadsrätt,6,3,5,Yes,No,117.0,0.0,0.0,2011-present,7482.0,2748.0,2024-07-10,6.895,0.0,6.895
+230,Schaktmästaregatan 3A,Centrum,Gällivar,Lägenhet,Bostadsrätt,2,2,3,No,No,60.5,0.0,0.0,1951-2000,5120.0,3000.0,2024-07-10,0.95,0.04,0.91
+231,Kronetorpsgatan 64A,Segevång,Malm,Lägenhet,Bostadsrätt,1,3,4,No,No,37.5,0.0,0.0,1951-2000,2814.0,13750.0,2024-07-10,0.645,-0.055,0.7
+232,"Spannarpsgränd 4, vån 3",Östberga/Älvsjö,Stockholm,Lägenhet,Bostadsrätt,2,3,3,No,No,59.0,0.0,0.0,2011-present,3000.0,13750.0,2024-07-10,1.895,0.405,1.49
+233,Drachmannsgatan 18 vån 3/3,Blackeberg,Stockholm,Lägenhet,Bostadsrätt,2,3,3,No,No,54.0,0.0,0.0,1951-2000,3840.0,13750.0,2024-07-09,2.195,0.265,1.93
+234,Råbyvägen 55 F,Gränby,Uppsal,Lägenhet,Bostadsrätt,1,1,7,Yes,No,41.0,0.0,0.0,2011-present,2914.0,4584.0,2024-07-09,1.385,-0.03,1.415
+235,"Åsögatan 98, 1,5 tr.",Södermalm/Rosenlund,Stockholm,Lägenhet,Bostadsrätt,1,1,5,Yes,No,22.0,0.0,0.0,1900-1950,1745.0,5400.0,2024-07-09,2.295,0.31,1.985
+236,Midgårdsgatan 3c,Söder,Östersund,Lägenhet,Bostadsrätt,2,1,3,Yes,No,64.0,0.0,0.0,1951-2000,5444.0,5052.0,2024-07-09,1.35,0.015,1.335
+237,Klamparegatan 15,Masthugget,Göteborg,Lägenhet,Bostadsrätt,2,2,6,Yes,No,57.5,0.0,0.0,1951-2000,3214.0,5544.0,2024-07-09,2.69,0.36,2.33
+238,Köpmangatan 48 A,Centrum,Lule,Lägenhet,Bostadsrätt,4,0,0,No,No,113.5,0.0,0.0,2011-present,4266.0,13750.0,2024-07-09,5.495,-0.445,5.94
+239,Mariagatan 8A,CentralaSundbyberg,Sundbyberg,Lägenhet,Bostadsrätt,1,0,0,No,No,22.0,0.0,0.0,2011-present,5240.0,13750.0,2024-07-09,1.995,0.0,1.995
+240,Bråtagatan 41,Trosa,Tros,Lägenhet,Bostadsrätt,1,0,0,No,No,20.0,0.0,0.0,2011-present,1607.0,24000.0,2024-07-09,1.195,0.0,1.195
+241,Runstensvägen 21,Handen,Haning,Lägenhet,Bostadsrätt,3,4,5,Yes,No,92.5,0.0,0.0,2011-present,4266.0,13750.0,2024-07-09,2.195,-0.195,2.39
+242,Bävervägen 44,Abrahamsberg,Stockholm,Lägenhet,Bostadsrätt,2,1,6,Yes,No,60.0,0.0,0.0,1951-2000,4370.0,11400.0,2024-07-09,2.995,0.105,2.89
+243,Västra Drottningvägen 13 AE,Centrum,Tidaholm,Lägenhet,Bostadsrätt,2,1,2,No,No,63.0,0.0,0.0,1951-2000,4600.0,13750.0,2024-07-09,0.295,0.095,0.2
+244,Kockumsgatan 5,Davidshall,Malm,Lägenhet,Bostadsrätt,2,3,4,Yes,No,81.0,0.0,0.0,1900-1950,5430.0,8500.0,2024-07-09,3.995,-0.095,4.09
+245,Torgny Segerstedts allé 27,Rosendal,Uppsal,Lägenhet,Bostadsrätt,1,0,0,No,No,27.0,0.0,0.0,2011-present,4266.0,13750.0,2024-07-09,1.695,0.0,1.695
+246,Nobelvägen 147H,Ellstorp,Malm,Lägenhet,Bostadsrätt,2,4,6,No,No,52.0,0.0,0.0,1900-1950,4234.0,8300.0,2024-07-09,1.395,-0.045,1.44
+247,Stockenbergsgatan 13,Centrum/Väster,Halmstad,Lägenhet,Bostadsrätt,3,0,0,No,No,78.0,0.0,0.0,2011-present,4266.0,13750.0,2024-07-09,2.995,-0.145,3.14
+248,Pionjärvägen 25,Brunflo,Östersund,Lägenhet,Bostadsrätt,1,1,3,No,No,48.0,0.0,0.0,1951-2000,2726.0,13750.0,2024-07-09,0.495,0.0,0.495
+249,Arkitektgatan 51,Södertorp,Malm,Lägenhet,Bostadsrätt,4,1,8,Yes,No,106.0,0.0,0.0,1951-2000,6884.0,4800.0,2024-07-09,2.695,-0.195,2.89
+250,Västra Skrävlingevägen 119,GulaHöja,Malm,Lägenhet,Bostadsrätt,3,2,3,No,No,80.5,0.0,0.0,2011-present,4266.0,13750.0,2024-07-09,1.495,-0.055,1.55
+253,Odlarvägen 4B,Teg,Ume,Lägenhet,Bostadsrätt,2,0,6,Yes,No,43.0,0.0,0.0,2011-present,3131.0,13750.0,2024-07-09,1.895,-0.07,1.965
+255,Fabelvägen 7,Kallhäll,Järfäll,Lägenhet,Bostadsrätt,1,8,8,Yes,No,42.0,0.0,0.0,1951-2000,3612.0,13750.0,2024-07-09,1.395,0.075,1.32
+257,Frösängsvägen 70,Frösäng,Oxelösund,Lägenhet,Bostadsrätt,3,3,0,No,No,78.0,0.0,0.0,1951-2000,4136.0,6600.0,2024-07-09,0.65,-0.075,0.725
+258,Västmannagatan 27,Vasastaden,Västerå,Lägenhet,Bostadsrätt,3,4,4,Yes,No,79.0,0.0,0.0,2011-present,4738.0,13750.0,2024-07-09,3.295,-0.145,3.44
+259,Segrells väg 2A,Balsby,Kristianstad,Lägenhet,Bostadsrätt,3,1,1,No,No,78.0,0.0,0.0,2011-present,4262.0,5784.0,2024-07-09,1.995,0.125,1.87
+260,Segrells väg 2A,Balsby,Kristianstad,Lägenhet,Bostadsrätt,3,1,1,No,No,78.0,0.0,0.0,2011-present,4262.0,5784.0,2024-07-09,1.995,0.125,1.87
+261,Slöjdgatan 4,Vasastaden,Linköping,Lägenhet,Bostadsrätt,2,1,5,Yes,No,63.0,0.0,0.0,2011-present,4162.0,10200.0,2024-07-09,2.195,0.0,2.195
+262,Siklöjevägen 8,CentralaTyresö,Tyres,Lägenhet,Bostadsrätt,3,1,4,Yes,No,85.5,0.0,0.0,2011-present,6262.0,15600.0,2024-07-09,3.495,0.0,3.495
+263,Grindstugegatan 5,Kåbo,Uppsal,Lägenhet,Bostadsrätt,2,4,7,Yes,No,48.5,0.0,0.0,2011-present,3075.0,13750.0,2024-07-09,2.225,0.0,2.225
+264,Hovås Allé 11,NyaHovås,Göteborg,Lägenhet,Bostadsrätt,2,0,0,No,No,41.0,0.0,0.0,2011-present,5400.0,13750.0,2024-07-09,2.7,-0.15,2.85
+265,"Stamgatan 48, vån 2",GamlaÖstberga/Älvsjö,Stockholm,Lägenhet,Bostadsrätt,3,2,2,No,No,69.5,0.0,0.0,2011-present,3500.0,13750.0,2024-07-09,2.175,0.1,2.075
+266,Sakförarevägen 9,NorraFäladen,Lund,Lägenhet,Bostadsrätt,5,1,2,No,No,92.0,0.0,0.0,1951-2000,7180.0,6000.0,2024-07-10,1.995,-0.045,2.04
+267,Olstorpsgatan 6A,Centralt,Ljungb,Lägenhet,Bostadsrätt,3,0,0,No,No,85.0,0.0,0.0,2011-present,2395.0,13750.0,2024-07-10,1.395,0.005,1.39
+268,Rosenholmsvägen 11 B,Backabo,Karlskron,Lägenhet,Bostadsrätt,3,2,2,No,Yes,80.0,0.0,0.0,1951-2000,6897.0,4550.0,2024-07-10,0.55,0.03,0.52
+269,Brunnshögsgatan 54B,Brunnshög,Lund,Lägenhet,Bostadsrätt,2,1,5,Yes,No,43.0,0.0,0.0,2011-present,2859.0,6660.0,2024-07-10,1.795,0.0,1.795
+270,Ulvedalsgatan 51,Ulvegärde,Kungälv,Lägenhet,Bostadsrätt,4,2,0,No,No,112.0,0.0,0.0,1951-2000,7500.0,16344.0,2024-07-10,2.795,0.0,2.795
+271,Möllerödsgatan 3C,Tyringe,Hässleholm,Lägenhet,Bostadsrätt,4,1,1,No,No,95.0,0.0,0.0,1951-2000,5121.0,11496.0,2024-07-10,1.375,0.115,1.26
+272,"Högklint Högklintsvägen 12, stuga 9",Högklint,Gotland,Lägenhet,Bostadsrätt,3,1,0,No,No,43.0,0.0,0.0,2011-present,2341.0,11940.0,2024-07-10,2.0,0.0,2.0
+273,Ellen fries gata 3A,Fruängen,Stockholm,Lägenhet,Bostadsrätt,2,0,0,No,No,45.0,0.0,0.0,2011-present,4266.0,13750.0,2024-07-10,1.995,0.0,1.995
+274,Kristallstigen 1,Kungsängen,Upplands-Bro,Lägenhet,Bostadsrätt,4,2,4,Yes,No,109.5,0.0,0.0,2011-present,9806.0,13750.0,2024-07-10,2.795,-0.045,2.84
+275,Fortifikationsgatan 11 A,Trossö,Karlskron,Lägenhet,Bostadsrätt,1,2,5,Yes,Yes,41.0,0.0,0.0,1951-2000,1990.0,6060.0,2024-07-10,1.195,-0.075,1.27
+276,Anders Personsgatan 9,NyaGårda,Göteborg,Lägenhet,Bostadsrätt,1,0,0,No,No,37.0,0.0,0.0,2011-present,7560.0,13750.0,2024-07-10,1.975,-0.075,2.05
+277,Glimmervägen 6,Stenåsen,Kil,Lägenhet,Bostadsrätt,4,1,1,No,No,92.0,0.0,0.0,1951-2000,5371.0,23112.0,2024-07-10,1.4,0.0,1.4
+278,Skogsvägen 12 A,Östra,Mjölb,Lägenhet,Bostadsrätt,3,1,1,No,Yes,101.5,0.0,0.0,1951-2000,5813.0,9816.0,2024-07-10,1.885,0.0,1.885
+279,BERGAVÄGEN 72,CentralaÅkersberga,Österåker,Lägenhet,Bostadsrätt,2,1,4,Yes,No,70.0,0.0,0.0,2001-2010,5344.0,4800.0,2024-07-10,2.395,-0.295,2.69
+280,Sunna kanalväg 4B,Wämöstrand,Karlskron,Lägenhet,Bostadsrätt,2,1,2,No,No,62.9,0.0,0.0,2001-2010,4589.0,4200.0,2024-07-10,1.55,0.18,1.37
+281,Strindbergsgatan 48B,Gärdet,Stockholm,Lägenhet,Bostadsrätt,3,1,1,No,No,67.0,0.0,0.0,1900-1950,3792.0,6800.0,2024-07-09,9.4,-0.25,9.65
+282,Neptungatan 10,ÖsterMälarstrand,Västerå,Lägenhet,Bostadsrätt,3,1,0,Yes,No,87.0,0.0,0.0,2011-present,5659.0,7116.0,2024-07-09,2.595,0.0,2.595
+283,Hövdingavägen 43D,Bomhus,Gävl,Lägenhet,Bostadsrätt,3,0,0,No,No,79.5,0.0,0.0,2011-present,7920.0,13750.0,2024-07-09,1.25,0.0,1.25
+284,Nils Ebbesgårdsgatan 96,Varla,Kungsback,Lägenhet,Bostadsrätt,3,1,1,No,No,74.0,0.0,0.0,2011-present,20520.0,13750.0,2024-07-09,3.29,0.065,3.225
+285,Stora Trädgårdsgatan 13L/124,Fimmelstången,Västervik,Lägenhet,Bostadsrätt,3,1,2,No,No,100.2,0.0,0.0,1951-2000,7600.0,13750.0,2024-07-09,1.6,-0.1,1.7
+287,Sjöfartsgatan 15B,HammarbySjöstad,Stockholm,Lägenhet,Bostadsrätt,2,0,0,No,No,47.0,0.0,0.0,2011-present,6949.0,13750.0,2024-07-09,3.795,-0.095,3.89
+289,Grobladsvägen 18A,Åhus,Kristianstad,Lägenhet,Bostadsrätt,5,1,1,No,Yes,121.0,0.0,0.0,2011-present,5700.0,13750.0,2024-07-09,2.75,-0.1,2.85
+291,Lisavägen 19,Lindsdal,Kalma,Lägenhet,Bostadsrätt,3,1,2,No,No,66.0,0.0,0.0,2011-present,5411.0,6000.0,2024-07-09,1.495,-0.045,1.54
+292,Timmervägen 2,Killeberg,Osb,Villa,Äganderätt,3,0,0,No,No,80.0,527.5,52.0,1900-1950,4266.0,29933.0,2024-07-10,0.365,-0.015,0.38
+293,Gruvvägen 8,Hällefors,Hällefor,Villa,Äganderätt,3,0,0,No,No,69.0,527.5,76.0,1951-2000,4266.0,46325.0,2024-07-10,0.65,0.12,0.53
+294,Kallebergavägen 40,Kallinge,Ronneb,Villa,Äganderätt,7,0,0,No,No,160.0,527.5,41.0,1900-1950,4266.0,39835.0,2024-07-10,2.35,-0.075,2.425
+295,Ekdalsvägen 26,Vendelsö,Haning,Villa,Äganderätt,10,0,0,No,No,331.0,1.2,17.0,1900-1950,4266.0,75334.0,2024-07-10,12.0,-0.8,12.8
+296,Tjädervägen 7,Grillby,Enköping,Villa,Äganderätt,7,0,0,No,No,191.0,527.5,850.0,2001-2010,4266.0,49615.0,2024-07-10,3.995,-0.295,4.29
+297,Prästbol 63,ÖstraÄmtervik,Sunn,Villa,Äganderätt,6,0,0,No,No,164.0,527.5,40.0,1951-2000,4266.0,44089.0,2024-07-10,1.85,-0.05,1.9
+298,Södra Bäckastigen 9,Klippan,Klippan,Villa,Äganderätt,6,0,0,No,No,169.0,830.0,26.0,1951-2000,4266.0,45500.0,2024-07-10,2.495,0.005,2.49
+299,Västanvinden 4,Strand,Kristinehamn,Villa,Bostadsrätt,5,0,0,No,No,146.0,527.5,12.0,1951-2000,4266.0,40600.0,2024-07-10,1.695,-0.145,1.84
+300,Brönnestadsvägen 13,Tjörnarp,Höör,Villa,Äganderätt,5,0,0,No,No,190.0,527.5,15.0,1951-2000,4266.0,37663.0,2024-07-10,1.895,0.105,1.79
+301,Smedbygatan 26,Smedby,Norrköping,Villa,Äganderätt,4,0,0,No,No,42.0,527.5,10.0,1900-1950,4266.0,47136.0,2024-07-10,1.95,0.0,1.95
+304,Tunnelvägen 114-4,Bromölla,Bromöll,Villa,Äganderätt,5,0,0,No,No,130.0,2.8,47.0,1900-1950,4266.0,31566.0,2024-07-10,2.995,-0.1,3.095
+305,Meteorvägen 25B,Skälby,Järfäll,Villa,Äganderätt,6,0,0,No,No,174.0,700.0,68.0,1951-2000,4266.0,43508.0,2024-07-10,6.29,-0.34,6.63
+306,Björkgatan 12,Annelund,Pite,Villa,Äganderätt,4,0,0,No,No,124.0,801.0,28.0,1951-2000,4266.0,41762.0,2024-07-10,1.695,-0.015,1.71
+307,Katrinas väg 10,NorraÅsum,Kristianstad,Villa,Äganderätt,6,0,0,No,No,174.0,747.0,45.0,1951-2000,4266.0,35804.0,2024-07-10,3.275,0.0,3.275
+308,Stora vägen 18,Horndal,Avest,Villa,Äganderätt,8,0,0,No,No,194.0,527.5,90.0,1900-1950,4266.0,40557.0,2024-07-10,1.095,0.255,0.84
+309,Lyckebäcksvägen 26A&B,VästraGärdet,Falkenberg,Villa,Äganderätt,8,0,0,No,No,212.0,957.0,18.0,1951-2000,4266.0,34995.0,2024-07-10,4.375,0.0,4.375
+310,Glasberga gårdsväg 18,GlasbergaSjöstad,Södertälj,Villa,Äganderätt,6,0,0,No,No,170.0,527.5,80.0,Before 1900s,4266.0,44378.0,2024-07-10,4.995,-0.395,5.39
+311,Nya vägen 5,Trekanten,Kalma,Villa,Äganderätt,4,0,0,No,No,140.0,527.5,40.0,1900-1950,4266.0,42500.0,2024-07-10,1.975,0.025,1.95
+312,Ljunggatan 7,Mariannelund,Eksj,Villa,Äganderätt,8,0,0,No,No,233.0,527.5,143.0,1900-1950,4266.0,31742.0,2024-07-10,1.495,-0.395,1.89
+313,Flenmo Nybro 2,Mellösa,Flen,Villa,Äganderätt,8,0,0,No,No,142.0,527.5,25.0,1900-1950,4266.0,40859.0,2024-07-10,1.9,-0.16,2.06
+315,Falkstigen 2,Wulfsäng,Kristinehamn,Villa,Bostadsrätt,6,0,0,No,No,117.0,19.0,508.0,2011-present,4266.0,5600.0,2024-07-10,0.785,0.115,0.67
+316,Ficksjövägen 14,Fårbo,Oskarshamn,Villa,Äganderätt,5,0,0,No,No,120.0,527.5,53.0,1900-1950,4266.0,51215.0,2024-07-10,1.375,-0.025,1.4
+317,Landeryd Strandgläntan 1,Hjulsbro,Linköping,Villa,Äganderätt,5,0,0,No,No,179.0,527.5,31.0,2001-2010,4266.0,34131.0,2024-07-10,8.25,0.1,8.15
+318,Södra vägen 31,Bengtsfors,Bengtsfor,Villa,Äganderätt,5,0,0,No,No,116.0,527.5,33.0,1900-1950,4266.0,48500.0,2024-07-10,1.05,0.0,1.05
+319,Östergatan 34,CentralaVellinge,Velling,Villa,Äganderätt,8,0,0,No,No,240.0,923.0,100.0,1900-1950,4266.0,33913.0,2024-07-10,4.0,0.85,3.15
+322,Briggen Sveas väg 11,Timmernabben,Mönsterå,Villa,Äganderätt,3,0,0,No,No,78.0,740.0,20.0,1951-2000,4266.0,37471.0,2024-07-10,1.975,0.1,1.875
+323,Arkitektvägen 22,ÅrstaHavsbad,Haning,Villa,Äganderätt,2,0,0,No,No,49.0,544.0,20.0,1900-1950,4266.0,45500.0,2024-07-10,2.995,0.005,2.99
+324,Granvägen 19,Öjavad,Karlshamn,Villa,Äganderätt,7,0,0,No,No,163.0,527.5,113.0,1951-2000,4266.0,33231.0,2024-07-09,0.65,-0.095,0.745
+325,Frubacken 3,Vemdalenby,Härjedalen,Villa,Äganderätt,5,0,0,No,No,144.0,527.5,40.0,2011-present,4266.0,36733.0,2024-07-09,4.195,0.4,3.795
+326,Kuggavägen 22,Åsa,Kungsback,Villa,Äganderätt,4,0,0,No,No,120.0,527.5,18.0,1951-2000,4266.0,35558.0,2024-07-09,5.6,0.6,5.0
+327,Hjovägen 19,Centralt,Hab,Villa,Äganderätt,6,0,0,No,No,168.0,527.5,86.0,1900-1950,4266.0,52685.0,2024-07-09,4.995,0.005,4.99
+329,Slöjdvägen 3,Alunda,Östhammar,Villa,Äganderätt,5,0,0,No,No,126.0,527.5,75.0,1951-2000,4266.0,43613.0,2024-07-09,2.495,0.005,2.49
+330,Norrahammarsvägen 78,Hovslätt,Jönköping,Villa,Äganderätt,6,0,0,No,No,188.0,527.5,102.0,1900-1950,4266.0,45422.0,2024-07-09,4.395,-0.195,4.59
+331,Skogsgatan 5,Billesholm,Bjuv,Villa,Äganderätt,4,0,0,No,No,98.0,527.5,78.0,1900-1950,4266.0,31708.0,2024-07-09,1.495,0.115,1.38
+332,Stenringen 6,Bergnäset,Lule,Villa,Äganderätt,3,0,0,No,No,78.0,527.5,78.0,1951-2000,4266.0,37950.0,2024-07-09,2.495,0.155,2.34
+333,Backvägen 22,Krokom,Krokom,Villa,Äganderätt,4,0,0,No,No,112.0,877.0,112.0,1951-2000,4266.0,41452.0,2024-07-09,2.4,0.0,2.4
+334,Kaplanvägen 15,Dalby,Lund,Villa,Äganderätt,6,0,0,No,No,165.0,824.0,7.0,1951-2000,4266.0,47050.0,2024-07-09,4.4,0.1,4.3
+335,Östra Egnahemsgatan 18,Centrum,Strömsund,Villa,Äganderätt,5,0,0,No,No,116.0,527.5,116.0,1951-2000,4266.0,32455.0,2024-07-09,0.59,-0.01,0.6
+336,Tallåsvägen 5,Hanken,Karlsborg,Villa,Äganderätt,4,0,0,No,No,95.0,527.5,48.0,1900-1950,4266.0,55477.0,2024-07-09,1.875,-0.175,2.05
+337,Brönneslöv 704,Brönneslöv,Eslöv,Villa,Äganderätt,6,0,0,No,No,132.0,527.5,70.0,1900-1950,4266.0,38635.0,2024-07-09,2.395,-0.195,2.59
+338,Dalgatan 12,Sörberge,Timr,Villa,Äganderätt,6,0,0,No,No,98.0,527.5,122.0,1951-2000,4266.0,59250.0,2024-07-09,2.75,-0.25,3.0
+339,Hällristargatan 12,Brandthovda,Västerå,Villa,Äganderätt,6,0,0,No,No,122.0,858.0,84.0,1951-2000,4266.0,42820.0,2024-07-09,3.495,-0.095,3.59
+340,Övre Kvarngatan 32,Bymarken,Jönköping,Villa,Äganderätt,6,0,0,No,No,135.0,527.5,52.0,1951-2000,4266.0,34555.0,2024-07-09,6.5,-0.35,6.85
+341,Violvägen 3,BålstaNorraUllevi,Håb,Villa,Äganderätt,5,0,0,No,No,146.0,487.0,38.0,1951-2000,4266.0,59285.0,2024-07-09,3.795,-0.695,4.49
+342,Rönnbärsgatan 7,Fanna,Enköping,Villa,Äganderätt,9,0,0,No,No,207.0,805.4,20.0,1951-2000,4266.0,56500.0,2024-07-09,4.495,-0.295,4.79
+343,Hovslagaregatan 16,Österlid,Trelleborg,Villa,Äganderätt,3,0,0,No,No,85.0,547.0,62.0,1900-1950,4266.0,44612.0,2024-07-09,2.395,-0.695,3.09
+344,Aledalsvägen 17,Ålstorp,Kävling,Villa,Äganderätt,3,0,0,No,No,70.0,527.5,70.0,1900-1950,4266.0,25062.0,2024-07-09,3.495,-0.495,3.99
+345,Vilanvägen 23,Nåntuna,Uppsal,Villa,Äganderätt,7,0,0,No,No,156.0,695.0,96.0,1951-2000,4266.0,62438.0,2024-07-09,6.695,-0.195,6.89
+346,Värbyängen 158,Bara,Svedal,Villa,Äganderätt,6,0,0,No,No,106.0,135.0,54.0,1951-2000,4266.0,72700.0,2024-07-09,2.995,0.0,2.995
+347,Böösgatan 10,Åselby,Borläng,Villa,Äganderätt,5,0,0,No,No,90.0,912.0,90.0,1951-2000,4266.0,33273.0,2024-07-09,2.195,0.43,1.765
+348,Pilvägen 2,Kallinge,Ronneb,Villa,Äganderätt,6,0,0,No,No,145.0,840.0,6.0,1951-2000,4266.0,40033.0,2024-07-09,1.6,-0.2,1.8
+349,Yttersjö 251,Yttersjö,Ume,Villa,Äganderätt,4,0,0,No,No,140.0,527.5,90.0,1900-1950,4266.0,48433.0,2024-07-09,3.895,0.0,3.895
+350,Vitsippevägen 5,Skateholm,Trelleborg,Villa,Äganderätt,4,0,0,No,No,95.0,705.0,7.0,2001-2010,4266.0,22941.0,2024-07-09,3.495,0.165,3.33
+351,Sågfilsgatan 24,Väst,Sjöb,Villa,Äganderätt,4,0,0,No,No,122.0,527.5,55.0,2011-present,4266.0,36463.0,2024-07-09,3.995,-0.095,4.09
+352,Trästa broväg 109,Trästa,Norrtälj,Villa,Äganderätt,5,0,0,No,No,124.0,527.5,68.0,1951-2000,4266.0,24604.0,2024-07-09,1.7,-0.225,1.925
+353,Myrvägen 14,Järlinden,Fal,Villa,Äganderätt,5,0,0,No,No,117.0,846.0,21.0,1951-2000,4266.0,33640.0,2024-07-09,4.795,-0.195,4.99
+354,Lindvägen 6,Linneryd,Tingsryd,Villa,Äganderätt,3,0,0,No,No,75.0,527.5,5.0,1900-1950,4266.0,35021.0,2024-07-09,0.975,0.125,0.85
+356,Enebacken 3,ROBERTSFORS,Robertsfor,Villa,Äganderätt,4,0,0,No,No,108.0,982.0,26.0,1951-2000,4266.0,31150.0,2024-07-09,1.495,-0.295,1.79
+357,Hällskärsvägen 109 och 111,Rosvik,Pite,Villa,Äganderätt,3,0,0,No,No,112.0,527.5,38.0,1900-1950,4266.0,17671.0,2024-07-09,1.795,0.235,1.56
+358,Fredriksdalsvägen 7,Vagnhärad,Tros,Villa,Äganderätt,4,0,0,No,No,82.0,527.5,25.0,1900-1950,4266.0,37823.0,2024-07-09,1.975,0.225,1.75
+359,Diamantslingan 25,Tyringe,Hässleholm,Villa,Äganderätt,5,0,0,No,No,154.0,757.0,18.0,1951-2000,4266.0,28896.0,2024-07-09,1.29,-0.01,1.3
+360,Kråkstigen 4,Sörgärdet,Strängnä,Villa,Äganderätt,4,0,0,No,No,108.0,810.0,30.0,1951-2000,4266.0,31601.0,2024-07-09,3.995,-0.07,4.065
+361,Kraftgatan 7,Mariannelund,Eksj,Villa,Äganderätt,7,0,0,No,No,115.0,881.0,80.0,1951-2000,4266.0,46312.0,2024-07-09,0.695,-0.044,0.739
+362,Rådomsvägen 24,Sollefteå,Sollefte,Villa,Äganderätt,5,0,0,No,No,118.0,527.5,125.0,1951-2000,4266.0,40719.0,2024-07-09,1.1,-0.1,1.2
+363,Högvägen 20,Östanå,Sandviken,Villa,Äganderätt,5,0,0,No,No,131.0,527.5,19.0,1900-1950,4266.0,34596.0,2024-07-09,2.295,0.055,2.24
+364,Högvägen 20,Östanå,Sandviken,Villa,Äganderätt,5,0,0,No,No,131.0,527.5,19.0,1900-1950,4266.0,34596.0,2024-07-09,2.295,0.055,2.24
+365,Flintavägen 20,Rosvik,Pite,Villa,Äganderätt,6,0,0,No,No,149.0,724.0,40.0,1951-2000,4266.0,48483.0,2024-07-09,1.69,-0.115,1.805
+366,Travvägen 8,Sjulnäs,Pite,Villa,Äganderätt,5,0,0,No,No,140.0,527.5,32.0,1951-2000,4266.0,44100.0,2024-07-09,1.69,0.48,1.21
+367,Trolldalsvägen 31,Trolldalen,Liding,Villa,Äganderätt,4,0,0,No,No,70.0,693.0,55.0,1951-2000,4266.0,39700.0,2024-07-09,15.9,0.3,15.6
+368,Hallandsgatan 17,ÖvreOlympia,Helsingborg,Villa,Äganderätt,8,0,0,No,No,130.0,573.0,70.0,1900-1950,4266.0,32924.0,2024-07-09,8.995,-1.345,10.34
+369,Södra Brogårdsgatan 40,Torsås,Torså,Villa,Äganderätt,6,0,0,No,No,210.0,527.5,19.0,1900-1950,4266.0,74144.0,2024-07-09,2.695,0.33,2.365
+370,Laviksvägen 31,Jämtön,Lule,Villa,Äganderätt,3,0,0,No,No,80.0,527.5,5.0,1900-1950,4266.0,40943.0,2024-07-09,1.1,0.675,0.425
+371,Stora Älsjövägen 46,Olofstorp,Göteborg,Villa,Äganderätt,4,0,0,No,No,110.0,527.5,20.0,1951-2000,4266.0,28000.0,2024-07-09,4.295,-0.345,4.64
+372,Finsbovägen 10,Sennan,Halmstad,Villa,Äganderätt,4,0,0,No,No,87.0,710.0,56.0,1900-1950,4266.0,40361.0,2024-07-09,1.725,0.0,1.725
+373,Hälledalsvägen 63,Hälledal,Härnösand,Villa,Äganderätt,4,0,0,No,No,67.0,527.5,65.0,1900-1950,4266.0,45772.0,2024-07-10,0.585,-0.085,0.67
+374,Södra Källtorpsvägen 25,Sörby/Eklunda,Örebr,Villa,Äganderätt,6,0,0,No,No,154.0,656.0,149.0,1951-2000,4266.0,43088.0,2024-07-10,5.295,-0.195,5.49
+375,Ettans väg 28,FäringsöKungsberga,Eker,Villa,Äganderätt,5,0,0,No,No,110.0,527.5,52.0,1900-1950,4266.0,44190.0,2024-07-10,5.275,-0.575,5.85
+377,Bergsgatan 38,Frösön,Östersund,Villa,Äganderätt,5,0,0,No,No,120.0,527.5,60.0,1900-1950,4266.0,55877.0,2024-07-10,5.15,0.2,4.95
+378,Ås Åstorp 11,GrästorpLandsbygd,Grästorp,Villa,Äganderätt,4,0,0,No,No,85.0,527.5,30.0,1900-1950,4266.0,40340.0,2024-07-10,1.075,0.54,0.535
+380,Nygatan 10,Brunflo,Östersund,Villa,Äganderätt,5,0,0,No,No,120.0,527.5,32.0,1951-2000,4266.0,47650.0,2024-07-10,3.0,0.0,3.0
+381,Lövstigen 6,Snöveltorp,Söderköping,Villa,Äganderätt,7,0,0,No,No,193.0,527.5,52.0,1951-2000,4266.0,53933.0,2024-07-10,3.495,-0.095,3.59
+382,Rotenäs 501,Frändefors,Vänersborg,Villa,Äganderätt,5,0,0,No,No,100.0,527.5,60.0,1900-1950,4266.0,37075.0,2024-07-10,1.795,-0.095,1.89
+383,Ödebo 222,Trekanten,Kalma,Villa,Äganderätt,5,0,0,No,No,123.0,527.5,52.0,1951-2000,4266.0,29980.0,2024-07-10,2.5,-0.3,2.8
+384,Gubberogatan 11,TörebodaTätort,Törebod,Villa,Äganderätt,4,0,0,No,No,91.0,764.0,91.0,1951-2000,4266.0,46307.0,2024-07-10,1.445,-0.02,1.465
+385,Kullerstad Brogetorp 3,Skärblacka,Norrköping,Villa,Äganderätt,5,0,0,No,No,143.0,527.5,35.0,1951-2000,4266.0,44060.0,2024-07-10,2.695,-0.045,2.74
+387,Moje 111,Moje,Gagnef,Villa,Äganderätt,2,0,0,No,No,84.0,527.5,20.0,1951-2000,4266.0,31763.0,2024-07-10,1.6,0.46,1.14
+388,Käxed 164,Käxed,Kramfor,Villa,Äganderätt,4,0,0,No,No,79.0,1.2,7.0,1900-1950,4266.0,6579.0,2024-07-10,2.5,1.8,0.7
+389,Karlavägen 13,Vallbacken,Gävl,Villa,Äganderätt,8,0,0,No,No,203.0,527.5,117.0,1951-2000,4266.0,57200.0,2024-07-10,6.5,0.05,6.45
+390,Södergatan 60,Ekeby,Bjuv,Villa,Äganderätt,4,0,0,No,No,75.0,617.0,25.0,1900-1950,4266.0,15700.0,2024-07-10,1.695,-0.15,1.845
+391,Villavägen 1,Asmundtorp,Landskron,Villa,Äganderätt,4,0,0,No,No,117.0,887.0,17.0,1900-1950,4266.0,36565.0,2024-07-09,1.995,-0.275,2.27
+392,Bredåker 148,Sidensjö,Örnsköldsvik,Villa,Äganderätt,4,0,0,No,No,126.0,527.5,100.0,1951-2000,4266.0,57890.0,2024-07-09,1.4,0.4,1.0
+393,Lövängsvägen 12,Filipstad,Filipstad,Villa,Äganderätt,3,0,0,No,No,72.0,455.0,72.0,1900-1950,4266.0,23463.0,2024-07-09,0.395,-0.075,0.47
+394,Skarke Björkhagen 1,Varnhem,Skar,Villa,Äganderätt,4,0,0,No,No,48.0,527.5,23.0,1951-2000,4266.0,21101.0,2024-07-09,1.1,-0.025,1.125
+395,Norr Amsberg 519,Borlänge,Borläng,Villa,Äganderätt,3,0,0,No,No,70.0,972.0,48.0,1900-1950,4266.0,20520.0,2024-07-09,1.895,-0.195,2.09
+396,Källvägen 4,Johannishus,Ronneb,Villa,Äganderätt,6,0,0,No,No,146.0,527.5,40.0,1951-2000,4266.0,51529.0,2024-07-09,2.275,-0.6,2.875
+397,Lindebacken 141,Prässebo,LillaEdet,Villa,Äganderätt,3,0,0,No,No,45.0,527.5,15.0,1951-2000,4266.0,23903.0,2024-07-09,1.395,0.23,1.165
+398,Porfyrvägen 60,Luossavaara,Kirun,Villa,Äganderätt,6,0,0,No,No,141.0,527.5,32.0,1951-2000,4266.0,52940.0,2024-07-09,2.995,0.025,2.97
+399,Torpesta 4,ÖsterMalma,Nyköping,Villa,Äganderätt,4,0,0,No,No,142.0,527.5,60.0,1951-2000,4266.0,44900.0,2024-07-09,4.925,-0.675,5.6
+401,Östra Harg Holmen Södra 81,ÖstraHargHolmen,Linköping,Villa,Annat,2,0,0,No,No,40.0,527.5,52.0,2011-present,4266.0,11500.0,2024-07-10,0.375,0.05,0.325
+402,Kyrkvägen 18,Grillby,Enköping,Villa,Äganderätt,6,0,0,No,No,152.0,850.0,52.0,1900-1950,4266.0,53146.0,2024-07-10,3.5,-0.2,3.7
+403,Ugglestigen 10,Åsbro,Askersund,Villa,Äganderätt,5,0,0,No,No,106.0,595.0,52.0,1951-2000,4266.0,33300.0,2024-07-10,0.995,-0.135,1.13
+405,Esmared 505,Simlångsdalen,Halmstad,Villa,Äganderätt,3,0,0,No,No,64.0,527.5,52.0,1951-2000,4266.0,21000.0,2024-07-10,1.95,-0.45,2.4
+406,Bergslagsvägen 236,Näs,Hallstahammar,Villa,Äganderätt,4,0,0,No,No,88.0,8.0,52.0,2011-present,4266.0,62067.0,2024-07-10,1.995,0.105,1.89
+408,Odalvägen 7,Klockarberget,Sundsvall,Villa,Äganderätt,5,0,0,No,No,115.0,383.0,52.0,1951-2000,4266.0,40614.0,2024-07-10,1.495,-0.095,1.59
+410,Östra Blomstergatan 15,Klippan,Klippan,Villa,Äganderätt,5,0,0,No,No,153.0,527.5,52.0,2001-2010,4266.0,33776.0,2024-07-10,3.8,-0.2,4.0
+411,Fjällskivlinggatan 3,Färjestaden,Mörbylång,Villa,Äganderätt,6,0,0,No,No,173.0,960.0,52.0,1951-2000,4266.0,31683.0,2024-07-10,2.65,0.0,2.65
+413,Allarp 835B,Allarp,S,Villa,Äganderätt,3,0,0,No,No,49.0,527.5,52.0,1951-2000,4266.0,28158.0,2024-07-10,1.15,0.0,1.15
+414,Flädervägen 5,Sturefors,Linköping,Villa,Äganderätt,5,0,0,No,No,156.0,527.5,52.0,1951-2000,4266.0,34513.0,2024-07-10,3.995,0.355,3.64
+415,Torpgränd 4,Sanden,Boden,Villa,Äganderätt,0,0,0,No,No,68.0,805.0,52.0,1951-2000,4266.0,13750.0,2024-07-10,0.53,-0.065,0.595
+416,Solbacksvägen 10,Tungelsta,Haning,Villa,Äganderätt,4,0,0,No,No,45.0,527.5,52.0,1951-2000,4266.0,35240.0,2024-07-10,3.295,0.06,3.235
+418,Sättravägen 164,Sättra,Norrtälj,Villa,Äganderätt,5,0,0,No,No,94.0,527.5,52.0,1900-1950,4266.0,27729.0,2024-07-10,2.495,0.455,2.04
+419,Gårdsvägen 33,Ekerum,Borgholm,Villa,Äganderätt,4,0,0,No,No,124.0,348.0,52.0,2011-present,4266.0,13750.0,2024-07-10,5.495,0.0,5.495
+420,Balkenhausensgatan 32,Centrum,Sölvesborg,Villa,Äganderätt,7,0,0,No,No,189.0,527.5,52.0,1900-1950,4266.0,65433.0,2024-07-10,4.25,-0.45,4.7
+421,Onsala Hällsåsväg 5,Onsala,Kungsback,Villa,Äganderätt,3,0,0,No,No,65.0,527.5,52.0,1951-2000,4266.0,28387.0,2024-07-10,3.0,-0.2,3.2
+422,Edvägen 4,Kallax,Lule,Villa,Äganderätt,5,0,0,No,No,166.0,527.5,52.0,2011-present,4266.0,26132.0,2024-07-10,5.49,0.01,5.48
+423,Pengabergsvägen 2,Pengaberget,Karlshamn,Villa,Äganderätt,4,0,0,No,No,97.0,35.0,52.0,2011-present,4266.0,13750.0,2024-07-10,2.3,0.275,2.025
+425,Smedstorpsvägen 2,Bro,Upplands-Bro,Villa,Äganderätt,2,0,0,No,No,53.0,527.5,52.0,1951-2000,4266.0,41607.0,2024-07-10,2.195,0.115,2.08
+426,Rönnliden 12,Virserum,Hultsfred,Villa,Äganderätt,6,0,0,No,No,120.0,811.0,52.0,1951-2000,4266.0,40900.0,2024-07-10,0.65,-0.05,0.7
+427,Gyltavägen 3,Gärsnäs,Simrishamn,Villa,Äganderätt,3,0,0,No,No,95.0,527.5,52.0,2011-present,4266.0,44772.0,2024-07-10,2.995,0.0,2.995
+428,Häggviken 581,Jättendal,Nordanstig,Villa,Äganderätt,3,0,0,No,No,78.0,527.5,52.0,2001-2010,4266.0,15983.0,2024-07-10,1.595,0.215,1.38
+429,Lövberget 2,Björbo,Gagnef,Villa,Äganderätt,2,0,0,No,No,586.0,19.0,52.0,2011-present,4266.0,13750.0,2024-07-10,0.45,-0.07,0.52
+430,Rollos väg 10,Öllsjö,Kristianstad,Villa,Äganderätt,7,0,0,No,No,160.0,860.0,52.0,1951-2000,4266.0,44500.0,2024-07-10,3.45,0.0,3.45
+431,Nitaregatan 14,Berga,Linköping,Villa,Äganderätt,6,0,0,No,No,185.0,516.0,52.0,1951-2000,4266.0,37088.0,2024-07-10,4.995,-0.145,5.14
+432,Snesslinge 254,Snesslinge,Östhammar,Villa,Äganderätt,7,0,0,No,No,192.0,527.5,52.0,Before 1900s,4266.0,42837.0,2024-07-10,4.0,1.2,2.8
+433,Landsom 121,Ås,Krokom,Villa,Äganderätt,3,0,0,No,No,57.0,15.0,52.0,2011-present,4266.0,13750.0,2024-07-09,1.195,-0.295,1.49
+434,Nybyn 253,Nybyn,Lindesberg,Villa,Äganderätt,4,0,0,No,No,60.0,20.0,52.0,2011-present,4266.0,19784.0,2024-07-09,0.55,0.025,0.525
+435,Solö backe 2,StockholmsSkärgård,Norrtälj,Villa,Äganderätt,5,0,0,No,No,135.0,527.5,52.0,1951-2000,4266.0,44904.0,2024-07-09,3.495,-0.295,3.79
+436,Tors väg 2,CentralaÄlmsta,Norrtälj,Villa,Äganderätt,4,0,0,No,No,99.0,45.0,52.0,2011-present,4266.0,13750.0,2024-07-09,2.395,0.0,2.395
+437,Säfsbyn 25,Säfsen,Ludvik,Villa,Äganderätt,3,0,0,No,No,100.0,527.5,52.0,Before 1900s,4266.0,15100.0,2024-07-09,1.695,-0.12,1.815
+438,Långsjövägen 6,Runsvik,Sundsvall,Villa,Äganderätt,6,0,0,No,No,135.0,527.5,52.0,1900-1950,4266.0,35115.0,2024-07-09,2.295,-0.195,2.49
+439,Trötters väg 1,ÖstraStranden,Trelleborg,Villa,Äganderätt,6,0,0,No,No,170.0,639.0,52.0,1951-2000,4266.0,31903.0,2024-07-09,4.3,0.05,4.25
+440,Vavdstorpen 123,Hållnäs,Tierp,Villa,Äganderätt,1,0,0,No,No,54.0,4.5,52.0,1900-1950,4266.0,31105.0,2024-07-09,0.875,0.15,0.725
+441,Marnavägen 192,Bergafjärden,Sundsvall,Villa,Äganderätt,5,0,0,No,No,96.0,820.0,52.0,1900-1950,4266.0,15500.0,2024-07-09,1.895,-0.185,2.08
+443,Eklundavägen 18,Harbo,Heb,Villa,Äganderätt,0,0,0,No,No,77.0,19.0,52.0,2011-present,4266.0,13750.0,2024-07-09,1.75,0.05,1.7
+444,Smedkroken 9,Degeberga,Kristianstad,Villa,Äganderätt,5,0,0,No,No,117.0,868.0,52.0,1951-2000,4266.0,34960.0,2024-07-09,1.295,-0.195,1.49
+446,Rättarevägen 12,Sjöbo,Sjöb,Villa,Äganderätt,6,0,0,No,No,160.0,759.0,52.0,1951-2000,4266.0,37300.0,2024-07-09,2.395,0.0,2.395
+447,Stallgruvevägen 11,Skärgårdsstad,Österåker,Villa,Äganderätt,7,0,0,No,No,170.0,527.5,52.0,1951-2000,4266.0,29771.0,2024-07-09,5.995,0.5,5.495
+448,Gustaf Pålssons väg 28,Käglinge,Malm,Villa,Äganderätt,3,0,0,No,No,110.0,462.0,52.0,2001-2010,4266.0,35605.0,2024-07-09,4.495,0.005,4.49
+449,Murningsgrundet 42,Hörnefors,Ume,Villa,Äganderätt,4,0,0,No,No,68.0,527.5,52.0,2011-present,4266.0,33078.0,2024-07-09,4.195,0.0,4.195
+450,Röbacksvägen 35,SÖRVIK,Ludvik,Villa,Äganderätt,5,0,0,No,No,126.0,898.0,52.0,1951-2000,4266.0,41500.0,2024-07-09,1.75,-0.1,1.85
+456,Västra Långgatan 46,Gamlastaden,Tros,Villa,Äganderätt,0,0,0,No,No,13.0,514.0,52.0,1900-1950,4266.0,66474.0,2024-07-09,7.25,-0.65,7.9
+457,Åsle Bygården 2,Falköping,Falköping,Villa,Äganderätt,6,0,0,No,No,250.0,527.5,52.0,1951-2000,4266.0,58101.0,2024-07-09,2.999,0.001,2.998
+459,Bruksgatan 7B,Silverdalen,Hultsfred,Villa,Äganderätt,7,0,0,No,No,135.0,725.0,52.0,1900-1950,4266.0,38750.0,2024-07-09,1.25,-0.1,1.35
+461,Rådjursstigen 22,Vimmerby,Vimmerb,Villa,Äganderätt,7,0,0,No,No,156.0,792.0,52.0,2011-present,4266.0,64500.0,2024-07-09,3.695,-0.145,3.84
+462,Fågelviksvägen 195,Ingaröstrand,Värmd,Villa,Äganderätt,4,0,0,No,No,120.0,527.5,52.0,1951-2000,4266.0,48500.0,2024-07-09,4.5,-0.5,5.0
+463,Fågelvägen 19,Lyckorna,Kävling,Villa,Äganderätt,6,0,0,No,No,180.0,982.0,52.0,1951-2000,4266.0,50117.0,2024-07-09,6.595,-0.145,6.74
+464,Kristinebergsvägen 46,Oxie,Malm,Villa,Äganderätt,5,0,0,No,No,120.0,30.0,52.0,2011-present,4266.0,37500.0,2024-07-09,7.0,-1.25,8.25
+465,Lupingatan 10,Lundellområdet,Svedal,Villa,Äganderätt,4,0,0,No,No,120.0,539.0,24.0,1951-2000,4266.0,37000.0,2024-07-10,3.895,0.005,3.89
+466,Hemsjövägen 19,Kyrkhult,Olofström,Villa,Äganderätt,7,0,0,No,No,155.0,1.1,46.0,1900-1950,4266.0,37107.0,2024-07-10,1.195,0.4,0.795
+467,Villavägen 8,Ankarsrum,Västervik,Villa,Äganderätt,4,0,0,No,No,100.0,527.5,49.0,1900-1950,4266.0,54342.0,2024-07-09,1.425,0.075,1.35
+468,Västra Tönnet Liljanro,Ekshärad,Hagfor,Villa,Äganderätt,6,0,0,No,No,182.0,527.5,10.0,1900-1950,4266.0,25471.0,2024-07-09,1.995,0.705,1.29
+469,Lokevägen 12,Blombacka,Södertälj,Villa,Äganderätt,5,0,0,No,No,147.0,856.0,52.0,1951-2000,4266.0,13750.0,2024-07-10,3.995,0.0,3.995
+470,Mellanstig 3,Hari,Gävl,Fritidshus,Äganderätt,1,0,0,No,No,20.0,19.0,52.0,2011-present,4266.0,13750.0,2024-07-10,0.5,-0.01,0.51
+472,Rämma Fnaggvägen 40,Älvdalen,Älvdalen,Fritidshus,Äganderätt,3,0,0,No,No,72.0,527.5,52.0,1951-2000,4266.0,12100.0,2024-07-10,1.1,0.09,1.01
+473,Havsörnsvägen 6,Espevik,Varberg,Fritidshus,Annat,4,0,0,No,No,49.0,19.0,52.0,2011-present,4266.0,28705.0,2024-07-10,2.15,0.28,1.87
+474,Malvavägen 85 Valla koloniområde,Valla,Linköping,Fritidshus,Annat,1,0,0,No,No,16.0,527.5,250.0,2011-present,4266.0,13750.0,2024-07-10,0.25,0.0,0.25
+475,Johannistorp 60,ÖstraStranden,Halmstad,Fritidshus,Annat,2,0,0,No,No,28.0,20.0,12.0,2011-present,4266.0,5800.0,2024-07-10,2.15,-0.2,2.35
+477,Degernäs 401,NorraViken,Åmål,Fritidshus,Äganderätt,1,0,0,No,No,15.0,527.5,52.0,2011-present,4266.0,13750.0,2024-07-10,1.35,-0.12,1.47
+478,"Brf.Fjällsätern vecka 10, 34, 35. Hus 10. Funäsfjällen",Tänndalen,Härjedalen,Fritidshus,Bostadsrätt,4,0,0,No,No,72.0,527.5,52.0,2011-present,4266.0,13750.0,2024-07-10,0.07,0.0,0.07
+479,Östanvik 307,Stigsjö/Brunne,Härnösand,Fritidshus,Äganderätt,1,0,0,No,No,35.0,19.0,52.0,2011-present,4266.0,13750.0,2024-07-10,0.275,-0.025,0.3
+480,Stavsövägen 54,Singö,Norrtälj,Fritidshus,Äganderätt,3,0,0,No,No,75.0,19.0,52.0,2011-present,4266.0,13750.0,2024-07-09,1.8,0.2,1.6
+481,"Klarbärsvägen 239, Emmalund koloniområde",Johannelund,Linköping,Fritidshus,Annat,1,0,0,No,No,15.0,527.5,305.0,2011-present,4266.0,13750.0,2024-07-09,0.295,-0.065,0.36
+482,Laxgård 2021,Vormsele,Lycksel,Fritidshus,Äganderätt,5,0,0,No,No,154.0,19.0,52.0,2011-present,4266.0,13750.0,2024-07-09,0.875,0.145,0.73
+483,Triogången 85,Säve,Göteborg,Fritidshus,Annat,2,0,0,No,No,33.0,19.0,200.0,2011-present,4266.0,16500.0,2024-07-09,0.795,-0.03,0.825
+484,Badhytt C65,Sandskogen,Ystad,Fritidshus,Annat,1,0,0,No,No,5.0,527.5,20.0,2011-present,4266.0,13750.0,2024-07-09,0.185,-0.03,0.215
+486,Brytstugevägen 7,Fredriksdal,Helsingborg,Fritidshus,Annat,2,0,0,No,No,40.0,527.5,450.0,2011-present,4266.0,13750.0,2024-07-09,0.225,-0.015,0.24
+487,Olofsbo 222 R49,Olofsbo,Falkenberg,Fritidshus,Bostadsrätt,3,0,0,No,No,22.2,527.5,20.0,2011-present,4266.0,13750.0,2024-07-09,0.795,-0.095,0.89
+489,Skävesund 412,Ässundet,Örebr,Fritidshus,Äganderätt,3,0,0,No,No,50.0,19.0,52.0,2011-present,4266.0,13750.0,2024-07-09,1.495,-0.095,1.59
+490,Flugbo 7310,Bollnäs,Bollnä,Fritidshus,Äganderätt,2,0,0,No,No,40.0,19.0,52.0,2011-present,4266.0,13750.0,2024-07-09,0.495,0.37,0.125
+491,Norrfjärden 662,Norrfjärden,Nordanstig,Fritidshus,Annat,1,0,0,No,No,25.0,527.5,52.0,2011-present,4266.0,13750.0,2024-07-09,0.595,0.06,0.535
+492,Häggsjö 284,Häggsjö,Härnösand,Fritidshus,Äganderätt,3,0,0,No,No,55.0,19.0,52.0,2011-present,4266.0,13750.0,2024-07-09,0.895,-0.165,1.06
+493,Islandsbäck 4,Islandsbäck,Skellefte,Fritidshus,Äganderätt,3,0,0,No,No,48.0,19.0,585.0,2011-present,4266.0,13750.0,2024-07-09,0.48,0.15,0.33
+494,Södra Sillskatan 529,Ursviken,Skellefte,Fritidshus,Äganderätt,2,0,0,No,No,47.0,19.0,52.0,2011-present,4266.0,13750.0,2024-07-09,1.05,0.0,1.05
+495,Albäcken 116,Skuttunge,Uppsal,Fritidshus,Äganderätt,0,0,0,No,No,77.0,527.5,19.0,2011-present,4266.0,13750.0,2024-07-09,0.995,0.005,0.99
+496,Tranviksvägen 6,Bodatorp,Värmd,Fritidshus,Äganderätt,3,0,0,No,No,63.0,19.0,52.0,2011-present,4266.0,13750.0,2024-07-09,5.75,0.25,5.5
+497,Mörtstigen 34,Pershagen,Södertälj,Parhus,Äganderätt,4,0,0,No,No,107.0,527.5,211.0,2011-present,4266.0,13750.0,2024-07-10,3.995,-0.295,4.29
+498,Skräddarevägen 7,Hallerna,Stenungsund,Parhus,Äganderätt,4,0,0,No,No,106.0,19.0,295.0,2011-present,4266.0,13750.0,2024-07-10,3.995,-0.295,4.29
+499,Apelvägen 5,GustavsbergÖsbyGrind,Värmd,Parhus,Äganderätt,5,0,0,No,No,110.0,19.0,349.0,2011-present,4266.0,13750.0,2024-07-09,5.5,-0.075,5.575
+500,Sjöutsikten 9,EkeröSandudden,Eker,Parhus,Äganderätt,5,0,0,No,No,130.0,20.0,351.0,2011-present,4266.0,13750.0,2024-07-09,6.45,-0.1,6.55
+501,Kalvögatan 43,Rydebäck,Helsingborg,Tomt,Äganderätt,0,0,0,No,No,77.0,639.0,52.0,2011-present,4266.0,13750.0,2024-07-10,3.6,-0.15,3.75
+502,Ekdalen 6,Ådö,Upplands-Bro,Tomt,Äganderätt,0,0,0,No,No,77.0,527.5,52.0,2011-present,4266.0,13750.0,2024-07-10,3.65,-0.4,4.05
+503,Klockebergsvägen 16,Kungsäter,Varberg,Tomt,Äganderätt,0,0,0,No,No,77.0,527.5,52.0,2011-present,4266.0,13750.0,2024-07-09,0.45,-0.056725,0.506725
+504,Stafettgatan 46,Hedensbyn,Skellefte,Kedjehus,Äganderätt,4,0,0,No,No,113.0,19.0,413.0,2011-present,4266.0,13750.0,2024-07-10,2.495,0.0,2.495
+505,Trollsländevägen 31,Fresta,UpplandsVäsb,Kedjehus,Äganderätt,6,0,0,No,No,117.0,19.0,212.0,2011-present,4266.0,13750.0,2024-07-10,4.695,0.055,4.64
+506,Gullbergagatan 52,Riseberga,Malm,Kedjehus,Äganderätt,6,0,0,No,No,162.0,19.0,460.0,2011-present,4266.0,13750.0,2024-07-10,4.495,0.3,4.195
+507,Solängsgatan 42,Anfarten,Sal,Kedjehus,Äganderätt,6,0,0,No,No,153.0,19.0,458.0,2011-present,4266.0,13750.0,2024-07-10,2.695,-0.145,2.84
+508,Brunandsvägen 11,Bunkeflostrand,Malm,Kedjehus,Äganderätt,4,0,0,No,No,136.0,19.0,370.0,2011-present,4266.0,13750.0,2024-07-09,5.395,-0.095,5.49
+509,Klappdansvägen 6,Hovhult,Uddevall,Kedjehus,Äganderätt,6,0,0,No,No,104.0,386.0,155.0,1951-2000,4266.0,44500.0,2024-07-09,2.25,-0.35,2.6
