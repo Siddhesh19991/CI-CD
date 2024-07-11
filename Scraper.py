@@ -56,11 +56,8 @@ def main():
                     # driver = webdriver.Chrome(service=s)
                     service = Service(chrome_driver_path)
                     chrome_options = Options()
-                    # Run headless to avoid opening a browser window
                     chrome_options.add_argument('--headless')
-                    # Bypass OS security model
                     chrome_options.add_argument('--no-sandbox')
-                    # Overcome limited resource problems
                     chrome_options.add_argument('--disable-dev-shm-usage')
                     driver = webdriver.Chrome(
                         service=service, options=chrome_options)
@@ -103,11 +100,8 @@ def extract_data(url):
     service = Service(chrome_driver_path)
     chrome_options = Options()
     # driver = webdriver.Chrome(service=s)
-    # Run headless to avoid opening a browser window
     chrome_options.add_argument('--headless')
-    # Bypass OS security model
     chrome_options.add_argument('--no-sandbox')
-    # Overcome limited resource problems
     chrome_options.add_argument('--disable-dev-shm-usage')
     driver = webdriver.Chrome(
         service=service, options=chrome_options)
@@ -300,7 +294,8 @@ subset5 = df2_clean[(df2_clean["11"] == "Ja")]
 superset5 = df2_clean[(df2_clean["11"] != "Ja")]
 
 del subset5["11"]
-subset5["nothing"] = np.nan
+# subset5["nothing"] = np.nan
+subset5.loc[:, "nothing"] = np.nan
 
 subset5.columns = superset5.columns
 
