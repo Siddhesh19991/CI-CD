@@ -23,13 +23,13 @@ To build this application, here was the process:
 - Exploratory Data Analysis (EDA)
 - Model Training
 - Local + Cloud Deployment
-- Continuous Integration (CI)/ Continuous Deployment (CD) pipeline
+- Continuous Integration (CI)/ Continuous Deployment (CD) pipelines
 
 ---
 ### To run the app locally 
-1) Ensure docker is installed 
+1) Ensure Docker is installed 
 
-2) Build the docker image 
+2) Build the Docker image 
 ```
 docker build -t mlapp:1.0 .
 ```
@@ -43,7 +43,7 @@ docker run -e FLASK_RUN_HOST=0.0.0.0 -e FLASK_RUN_PORT=5000 -p 5000:5000 mlapp:1
 
 - .github/workflows: CI/CD pipeline configuration
 - Jupyter_Notebooks: Contains notebooks for Scraping, EDA, and Modeling
-- Text_to_SQL: Integration of Language Model (LLM) with MySQL Database
+- Text_to_SQL: Integration of an LLM with MySQL Database
 - static: Front-end files (HTML, CSS, JavaScript)
 - .gitignore: Specifies files/folders to ignore when pushing to GitHub
 - Dockerfile: Docker configuration file
