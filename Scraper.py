@@ -653,8 +653,6 @@ df_combine_2.to_csv("data.csv")
 db = mysql.connector.connect(
     user="siddhesh",
     password="Zxcvbnm1234",
-    # Kept the credientials open to the public for now due to restriction issues when using github secerts for MySQL. But the database is still secure since the below
-    # inputs are kept secret.
     host="database101.mysql.database.azure.com",
     port=3306,
     database="sweden_property"
