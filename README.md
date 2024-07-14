@@ -19,7 +19,7 @@ To build this application, here was the process:
 - Data Collection
 - Data Cleaning + Feature Engineering
 - Data Migration to Azure MySQL Database
-- Integration of Language Model (LLM) with MySQL Database
+- Integration of an LLM (Large Language Model) with MySQL Database
 - Exploratory Data Analysis (EDA)
 - Model Training
 - Local + Cloud Deployment
