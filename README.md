@@ -6,7 +6,7 @@ This project provides valuable insights for users looking to understand the hous
 
 The project encompasses several critical steps: data collection, data cleaning, exploratory data analysis (EDA), model building, cloud deployment and CI/CD. 
 
-Before we begin, let's have a look at the [app](https://swedenhomepredict.azurewebsites.net/): 
+Before we begin, let's have a look at the [app](https://swedenhomepredict.azurewebsites.net/)
 
 ![sweden](https://github.com/user-attachments/assets/c559ed53-a037-4753-92e0-d805eee446f3)
 
