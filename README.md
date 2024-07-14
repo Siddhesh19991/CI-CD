@@ -1,5 +1,5 @@
-# Machine Learning for Property Prices in Sweden: From Data Collection to Deployment 
- 
+Machine Learning for Housing in Sweden: A Complete Guide from Data Collection to Deployment 
+
 The detailed blog can be found here. 
 
 This project provides valuable insights for users looking to understand the housing market in Sweden and serves as a comprehensive guide for anyone interested in the full spectrum of a ML lifecycle, from data collection to deployment.
