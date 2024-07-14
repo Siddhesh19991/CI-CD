@@ -1,4 +1,4 @@
-#Machine Learning for Housing in Sweden: A Complete Guide from Data Collection to Deployment 
+# Machine Learning for Housing in Sweden: A Complete Guide from Data Collection to Deployment 
 
 The detailed blog can be found here. 
 
