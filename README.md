@@ -1,6 +1,6 @@
 # Machine Learning for Housing in Sweden: A Complete Guide from Data Collection to Deployment 
 
-The detailed blog can be found here. 
+The detailed blog can be found [here](https://medium.com/@siddheshraw/machine-learning-for-housing-in-sweden-86456733488d). 
 
 This project provides valuable insights for users looking to understand the housing market in Sweden and serves as a comprehensive guide for anyone interested in the full spectrum of a ML lifecycle, from data collection to deployment.
 
