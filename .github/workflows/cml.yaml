@@ -1,12 +1,13 @@
 name: sweden_property_prices_ci
-on:
-  push:
-    branches:
-      - main
-  workflow_run:
-    workflows: ["Web Scraping"]
-    types:
-      - completed
+##### uncomment the below lines to enable this workflow #####
+#on:
+#  push:
+#    branches:
+#      - main
+#  workflow_run:
+#    workflows: ["Web Scraping"]
+#    types:
+#      - completed
 jobs:
   train-and-report:
     runs-on: ubuntu-latest

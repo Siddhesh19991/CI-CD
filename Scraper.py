@@ -650,12 +650,14 @@ df_combine_2.loc[df_combine_2['House_type'] ==
 
 df_combine_2.to_csv("data.csv")
 
+
+### add your database connection here
 db = mysql.connector.connect(
-    user="siddhesh",
-    password="Zxcvbnm1234",
-    host="database101.mysql.database.azure.com",
-    port=3306,
-    database="sweden_property"
+    # user=<user>,
+    # password=<password>,
+    # host=<host>,
+    # port=<port>,
+    # database= <database>
 )
 
 cursor = db.cursor()

@@ -21,12 +21,13 @@ def response_gemini(question, prompt):
 
 
 def sql_retrieve(sql):
+    ### add your database connection here
     db = mysql.connector.connect(
-        user=st.secrets["username"],
-        password=st.secrets["password"],
-        host="database101.mysql.database.azure.com",
-        port=3306,
-        database="sweden_property"
+        # user=<user>,
+        # password=<password>,
+        # host=<host>,
+        # port=<port>,
+        # database= <database>
     )
     cursor = db.cursor()
     cursor.execute(sql)

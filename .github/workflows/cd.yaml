@@ -1,13 +1,13 @@
 name: sweden_property_prices_cd
-
-on:
-  push:
-    branches:
-      - main
-  workflow_run:
-    workflows: ["sweden_property_prices_ci"]
-    types:
-      - completed
+##### uncomment the below lines to enable this workflow #####
+#on:
+#  push:
+#    branches:
+#      - main
+#  workflow_run:
+#    workflows: ["sweden_property_prices_ci"]
+#    types:
+#      - completed
 
 jobs:
   deploy:

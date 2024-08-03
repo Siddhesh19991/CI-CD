@@ -1,9 +1,9 @@
 name: Web Scraping
-
-on:
-  schedule:
-    #    - cron: "0 0 1 1,3,5,7,9,11 *" # Run on the 1st of Jan, Mar, May, Jul, Sep, and Nov at midnight UTC
-    - cron: "0 0 1 * *" # Run on the 1st of every month at midnight UTC
+##### uncomment the below lines to enable this workflow #####
+# on:
+#   schedule:
+#     #    - cron: "0 0 1 1,3,5,7,9,11 *" # Run on the 1st of Jan, Mar, May, Jul, Sep, and Nov at midnight UTC
+#     - cron: "0 0 1 * *" # Run on the 1st of every month at midnight UTC
 
 jobs:
   scrape:
